@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef slic3r_WxFontUtils_hpp_
 #define slic3r_WxFontUtils_hpp_
 

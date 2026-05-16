@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function loopFix() {
   const swiper = this;
   swiper.emit('beforeLoopFix');

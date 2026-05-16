@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ears.h"
 #include "on_boundary.h"
 #include "find.h"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 function ClosePage() {
 	var tSend = {};
 	tSend['sequence_id'] = Math.round(new Date() / 1000);

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef PLACER_BOILERPLATE_HPP
 #define PLACER_BOILERPLATE_HPP
 

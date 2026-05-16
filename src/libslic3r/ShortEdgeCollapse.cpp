@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ShortEdgeCollapse.hpp"
 #include "libslic3r/NormalUtils.hpp"
 

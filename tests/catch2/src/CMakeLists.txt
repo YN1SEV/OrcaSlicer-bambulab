@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 include(CatchMiscFunctions)
 
 # CMake derives a Visual Studio project GUID from the file path but can be overridden via a property

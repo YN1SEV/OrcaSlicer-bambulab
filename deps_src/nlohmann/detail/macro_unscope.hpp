@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 
 // restore clang diagnostic settings

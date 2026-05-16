@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Configuration store of Slic3r.
 //
 // The configuration store is either static or dynamic.

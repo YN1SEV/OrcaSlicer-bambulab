@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "TryCatchSignalSEH.hpp"
 
 #include <windows.h>

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef slic3r_GUI_SysInfoDialog_hpp_
 #define slic3r_GUI_SysInfoDialog_hpp_
 

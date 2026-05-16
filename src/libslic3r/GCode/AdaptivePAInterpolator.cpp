@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // AdaptivePAInterpolator.cpp
 // OrcaSlicer
 //

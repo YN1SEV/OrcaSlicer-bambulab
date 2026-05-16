@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 #include <boost/nowide/cstdio.hpp>
 #include <boost/nowide/fstream.hpp>

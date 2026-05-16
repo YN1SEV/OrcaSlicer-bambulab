@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 function prepareClasses(entries, prefix) {
   const resultClasses = [];
   entries.forEach(item => {

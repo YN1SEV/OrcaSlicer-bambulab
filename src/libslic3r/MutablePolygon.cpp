@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "MutablePolygon.hpp"
 #include "Line.hpp"
 #include "libslic3r.h"

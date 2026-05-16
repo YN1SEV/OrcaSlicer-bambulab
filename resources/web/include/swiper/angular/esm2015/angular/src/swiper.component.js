@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { ChangeDetectionStrategy, Component, ContentChildren, EventEmitter, HostBinding, Inject, Input, Output, PLATFORM_ID, ViewChild, ViewEncapsulation, } from '@angular/core';
 // @ts-ignore
 import Swiper from 'swiper';

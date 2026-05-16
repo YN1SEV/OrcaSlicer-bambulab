@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 
 namespace Slic3r {

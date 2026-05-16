@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Thumbnails.hpp"
 #include "../miniz_extension.hpp"
 #include "format.hpp"

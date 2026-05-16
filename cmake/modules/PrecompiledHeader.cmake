@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # Function for setting up precompiled headers. Usage:
 #
 #   add_library/executable(target

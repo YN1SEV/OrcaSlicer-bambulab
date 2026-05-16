@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "NormalUtils.hpp"
 
 using namespace Slic3r;

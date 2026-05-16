@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SendSystemInfoDialog.hpp"
 
 #if __APPLE__

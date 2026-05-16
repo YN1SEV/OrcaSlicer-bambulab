@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef _
 #define _(s)    	Slic3r::GUI::I18N::translate((s))
 #define _L(s)    	Slic3r::GUI::I18N::translate((s))

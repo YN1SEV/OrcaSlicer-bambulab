@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /*  ADMesh -- process triangulated solid meshes
  *  Copyright (C) 1995, 1996  Anthony D. Martin <amartin@engr.csulb.edu>
  *  Copyright (C) 2013, 2014  several contributors, see AUTHORS

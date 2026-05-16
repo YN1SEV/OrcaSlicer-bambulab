@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SIMPLEX_HPP
 #define SIMPLEX_HPP
 

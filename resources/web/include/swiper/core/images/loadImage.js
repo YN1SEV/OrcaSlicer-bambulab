@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getWindow } from 'ssr-window';
 import $ from '../../shared/dom.js';
 export default function loadImage(imageEl, src, srcset, sizes, checkForComplete, callback) {

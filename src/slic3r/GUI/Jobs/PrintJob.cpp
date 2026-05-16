@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PrintJob.hpp"
 #include "libslic3r/MTUtils.hpp"
 #include "libslic3r/Model.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Hackish wrapper around the ClipperLib library to compile the Clipper library using Slic3r's own Point type.
 
 #ifndef slic3r_clipper_hpp

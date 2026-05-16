@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_OPENGL_GLFW_MAP_TEXTURE_H
 #define IGL_OPENGL_GLFW_MAP_TEXTURE_H
 

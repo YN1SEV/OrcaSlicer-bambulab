@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "TriangleSetSampling.hpp"
 #include <map>
 #include <random>

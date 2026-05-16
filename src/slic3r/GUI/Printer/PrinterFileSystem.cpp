@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PrinterFileSystem.h"
 #include "libslic3r/Utils.hpp"
 #include "libslic3r/Format/bbs_3mf.hpp"

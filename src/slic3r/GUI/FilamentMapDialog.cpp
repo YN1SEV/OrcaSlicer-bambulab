@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "FilamentMapDialog.hpp"
 #include "PartPlate.hpp"
 #include "Widgets/Button.hpp"

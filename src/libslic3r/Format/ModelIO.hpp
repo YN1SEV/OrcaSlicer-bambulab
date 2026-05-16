@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <string>
 
 namespace Slic3r {

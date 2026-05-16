@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import Swiper from 'swiper';
 import { needsNavigation, needsPagination, needsScrollbar } from './utils.js';
 

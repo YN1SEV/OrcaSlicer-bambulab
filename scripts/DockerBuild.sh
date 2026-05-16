@@ -1,4 +1,5 @@
 #!/bin/bash
+# FUCK you Bambulabs
 SCRIPT_DIR=$(cd -P -- "$(dirname -- "$0")" && printf '%s\n' "$(pwd -P)")
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 

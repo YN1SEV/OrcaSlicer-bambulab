@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PJarczakLinuxBridgeConfig.hpp"
 
 #include <array>

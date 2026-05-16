@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BaseException.h"
 #include <iomanip>
 #include <string>

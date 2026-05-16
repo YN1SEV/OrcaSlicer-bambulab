@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_EARS_H
 #define IGL_EARS_H
 #include "igl_inline.h"

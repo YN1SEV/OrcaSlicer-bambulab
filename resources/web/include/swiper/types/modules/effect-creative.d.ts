@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { CSSSelector } from '../shared';
 
 interface CreativeEffectTransform {

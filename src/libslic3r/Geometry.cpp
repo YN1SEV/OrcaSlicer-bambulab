@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "libslic3r.h"
 #include "Exception.hpp"
 #include "Geometry.hpp"

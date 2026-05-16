@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { Dom7Array } from 'dom7';
 import { SwiperOptions } from './swiper-options';
 import { CSSSelector, SwiperModule } from './shared';

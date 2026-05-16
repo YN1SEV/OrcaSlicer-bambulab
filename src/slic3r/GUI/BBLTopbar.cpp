@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BBLTopbar.hpp"
 #include "wx/artprov.h"
 #include "wx/aui/framemanager.h"

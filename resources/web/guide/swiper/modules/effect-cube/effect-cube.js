@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import $ from '../../shared/dom.js';
 import effectInit from '../../shared/effect-init.js';
 export default function EffectCube({

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SpatIndex.hpp"
 
 // for concave hull merging decisions

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Triangulation.hpp"
 #include "IntersectionPoints.hpp"
 #include <boost/next_prior.hpp>

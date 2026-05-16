@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { Directive, Input } from '@angular/core';
 import { coerceBooleanProperty } from './utils/utils';
 import * as i0 from "@angular/core";

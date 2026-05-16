@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import {
   A11yOptions,
   AutoplayOptions,

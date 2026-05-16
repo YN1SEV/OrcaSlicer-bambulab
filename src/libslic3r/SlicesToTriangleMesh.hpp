@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLICESTOTRIANGLEMESH_HPP
 #define SLICESTOTRIANGLEMESH_HPP
 

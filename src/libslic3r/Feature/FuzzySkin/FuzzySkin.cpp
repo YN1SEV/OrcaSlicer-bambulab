@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <random>
 
 #include "libslic3r/Algorithm/LineSplit.hpp"

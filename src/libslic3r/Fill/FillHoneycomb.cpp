@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "../ClipperUtils.hpp"
 #include "../ShortestPath.hpp"
 #include "../Surface.hpp"

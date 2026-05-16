@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 
 orcaslicer_add_cmake_project(OpenCSG
     # GIT_REPOSITORY https://github.com/floriankirsch/OpenCSG.git

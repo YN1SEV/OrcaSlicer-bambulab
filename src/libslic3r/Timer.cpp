@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Timer.hpp"
 #include <boost/log/trivial.hpp>
 

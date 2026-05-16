@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "UpgradePanel.hpp"
 #include <slic3r/GUI/Widgets/SideTools.hpp>
 #include <slic3r/GUI/Widgets/Label.hpp>

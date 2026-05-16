@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef slic3r_FillGyroid_hpp_
 #define slic3r_FillGyroid_hpp_
 

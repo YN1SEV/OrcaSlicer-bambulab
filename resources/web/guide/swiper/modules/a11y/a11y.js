@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import classesToSelector from '../../shared/classes-to-selector.js';
 import $ from '../../shared/dom.js';
 export default function A11y({

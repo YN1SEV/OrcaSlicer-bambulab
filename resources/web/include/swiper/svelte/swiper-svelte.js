@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /**
  * Swiper Svelte 7.2.0
  * Most modern mobile touch slider and framework with hardware accelerated transitions

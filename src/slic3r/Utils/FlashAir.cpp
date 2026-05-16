@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "FlashAir.hpp"
 
 #include <algorithm>

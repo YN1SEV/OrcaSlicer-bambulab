@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "libslic3r/libslic3r.h"
 
 #include "3DBed.hpp"

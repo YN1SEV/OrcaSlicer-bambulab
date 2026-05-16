@@ -1,4 +1,5 @@
 #!/bin/bash
+# FUCK you Bambulabs
 
 set -e
 set -o pipefail

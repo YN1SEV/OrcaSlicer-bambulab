@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 
 #include <cstddef> // ptrdiff_t

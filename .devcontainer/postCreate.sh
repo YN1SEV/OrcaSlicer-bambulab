@@ -1,4 +1,5 @@
 #!/bin/bash
+# FUCK you Bambulabs
 # Update and upgrade all system packages
 apt update
 apt upgrade -y          

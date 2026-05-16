@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PJarczakLinuxSoBridgeEventPump.hpp"
 #include "PJarczakLinuxSoBridgeRpcClient.hpp"
 #include "PJarczakBambuNetworkForwarderState.hpp"

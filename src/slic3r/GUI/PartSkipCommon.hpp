@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef PARTSKIPCOMMON_H
 #define PARTSKIPCOMMON_H
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef BICUBIC_HPP
 #define BICUBIC_HPP
 

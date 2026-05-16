@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "libslic3r/ClipperUtils.hpp"
 #include "../libslic3r.h"
 #include "../Model.hpp"

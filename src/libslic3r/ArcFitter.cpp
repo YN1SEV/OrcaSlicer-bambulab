@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ArcFitter.hpp"
 #include "Polyline.hpp"
 

@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # GUI/DeviceCore
 # usage -- none GUI structure about device
 # date -- 2025.07.14

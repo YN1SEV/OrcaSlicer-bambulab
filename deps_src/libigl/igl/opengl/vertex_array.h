@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_OPENGL_VERTEX_ARRAY_H
 #define IGL_OPENGL_VERTEX_ARRAY_H
 #include <igl/opengl/../igl_inline.h>

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "QuadricEdgeCollapse.hpp"
 #include <tuple>
 #include <optional>

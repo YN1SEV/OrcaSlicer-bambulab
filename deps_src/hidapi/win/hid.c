@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /*******************************************************
  HIDAPI - Multi-Platform library for
  communication with HID devices.

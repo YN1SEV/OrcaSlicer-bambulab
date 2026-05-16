@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import $ from './dom.js';
 export default function createShadow(params, $slideEl, side) {
   const shadowClass = `swiper-slide-shadow${side ? `-${side}` : ''}`;

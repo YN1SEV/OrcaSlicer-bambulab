@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* underscore in name -> watch for changes */
 export const paramsList = [
     'init',

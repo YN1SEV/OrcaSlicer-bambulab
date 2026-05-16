@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "StackWalker.h"
 #include <strsafe.h>
 //#include <atlconv.h>

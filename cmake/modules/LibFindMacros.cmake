@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # Version 2.2
 # Public Domain, originally written by Lasse Kärkkäinen <tronic>
 # Maintained at https://github.com/Tronic/cmake-modules

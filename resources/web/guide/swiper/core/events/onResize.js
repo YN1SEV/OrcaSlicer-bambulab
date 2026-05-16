@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function onResize() {
   const swiper = this;
   const {

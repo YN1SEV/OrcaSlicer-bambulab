@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifdef HAS_WIN10SDK
 
 #ifndef NOMINMAX

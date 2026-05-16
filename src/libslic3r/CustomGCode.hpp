@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef slic3r_CustomGCode_hpp_
 #define slic3r_CustomGCode_hpp_
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 
 #undef JSON_HEDLEY_ALWAYS_INLINE

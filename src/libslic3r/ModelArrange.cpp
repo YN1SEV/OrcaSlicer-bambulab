@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ModelArrange.hpp"
 
 #include <libslic3r/Model.hpp>

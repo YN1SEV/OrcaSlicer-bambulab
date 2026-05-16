@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "printer_parts.hpp"
 
 const TestData PRINTER_PART_POLYGONS =

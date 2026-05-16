@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_IS_STL_H
 #define IGL_IS_STL_H
 #include "igl_inline.h"

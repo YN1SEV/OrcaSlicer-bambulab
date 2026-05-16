@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef __NETWORK_AGENT_FACTORY_HPP__
 #define __NETWORK_AGENT_FACTORY_HPP__
 

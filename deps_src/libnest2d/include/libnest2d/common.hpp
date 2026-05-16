@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef LIBNEST2D_CONFIG_HPP
 #define LIBNEST2D_CONFIG_HPP
 

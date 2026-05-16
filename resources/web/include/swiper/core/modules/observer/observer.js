@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getWindow } from 'ssr-window';
 export default function Observer({
   swiper,

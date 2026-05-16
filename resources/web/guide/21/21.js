@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 function OnInit()
 {
 	//let strInput=JSON.stringify(cData);

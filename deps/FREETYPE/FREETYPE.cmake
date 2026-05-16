@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 if(WIN32)
     set(library_build_shared "1")
 else()

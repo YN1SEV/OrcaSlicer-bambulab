@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export interface VirtualMethods {
   /**
    * Object with cached slides HTML elements

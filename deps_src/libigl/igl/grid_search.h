@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_GRID_SEARCH_H
 #define IGL_GRID_SEARCH_H
 #include "igl_inline.h"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "hausdorff.h"
 #include "../../hausdorff.h"
 #include <functional>

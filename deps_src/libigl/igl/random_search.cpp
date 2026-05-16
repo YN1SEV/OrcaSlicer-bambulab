@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "random_search.h"
 #include <iostream>
 #include <cassert>

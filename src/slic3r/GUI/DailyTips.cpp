@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "DailyTips.hpp"
 
 #ifndef IMGUI_DEFINE_MATH_OPERATORS

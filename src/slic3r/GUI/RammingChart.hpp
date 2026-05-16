@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Orca: This file is ported from latest PrusaSlicer
 
 #ifndef RAMMING_CHART_H_

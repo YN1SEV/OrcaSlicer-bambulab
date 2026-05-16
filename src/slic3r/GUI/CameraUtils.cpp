@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "CameraUtils.hpp"
 #include <igl/project.h> // projecting points
 #include <igl/unproject.h>

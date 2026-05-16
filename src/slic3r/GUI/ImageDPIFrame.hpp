@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef _ImageDPIFrame_H_
 #define _ImageDPIFrame_H_
 

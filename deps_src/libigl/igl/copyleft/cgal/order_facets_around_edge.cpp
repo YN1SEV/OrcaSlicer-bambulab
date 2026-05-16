@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "order_facets_around_edge.h"
 #include <Eigen/Geometry>
 #include <CGAL/Exact_predicates_exact_constructions_kernel.h>

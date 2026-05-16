@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BoundingBox.hpp"
 #include "Config.hpp"
 #include "Polygon.hpp"

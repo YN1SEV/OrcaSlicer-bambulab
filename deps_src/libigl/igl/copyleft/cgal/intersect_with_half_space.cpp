@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "intersect_with_half_space.h"
 #include "mesh_boolean.h"
 #include "half_space_box.h"

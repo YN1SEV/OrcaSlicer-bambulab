@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ExPolygonsIndex.hpp"
 using namespace Slic3r;
 

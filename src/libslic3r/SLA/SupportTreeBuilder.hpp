@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLA_SUPPORTTREEBUILDER_HPP
 #define SLA_SUPPORTTREEBUILDER_HPP
 

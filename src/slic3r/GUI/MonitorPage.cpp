@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "MonitorPage.hpp"
 
 namespace Slic3r {

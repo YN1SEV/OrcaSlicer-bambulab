@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SupportTreeMesher.hpp"
 
 namespace Slic3r { namespace sla {

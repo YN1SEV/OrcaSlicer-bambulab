@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function addSlide(index, slides) {
   const swiper = this;
   const {

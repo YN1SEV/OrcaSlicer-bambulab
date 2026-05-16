@@ -1,4 +1,5 @@
 #!/bin/sh
+# FUCK you Bambulabs
 set -eu
 
 log() {

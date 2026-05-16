@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 
 #include <nlohmann/detail/iterators/primitive_iterator.hpp>

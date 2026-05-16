@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "sla_test_utils.hpp"
 #include "libslic3r/TriangleMeshSlicer.hpp"
 #include "libslic3r/SLA/AGGRaster.hpp"

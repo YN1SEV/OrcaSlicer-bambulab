@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 set(_conf_cmd ./configure)
 
 if (MSVC)

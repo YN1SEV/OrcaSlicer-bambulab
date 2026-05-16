@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SnapmakerPrinterAgent.hpp"
 #include "Http.hpp"
 #include "libslic3r/PresetBundle.hpp"

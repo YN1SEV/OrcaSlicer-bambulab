@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ramer_douglas_peucker.h"
 
 #include "LinSpaced.h"

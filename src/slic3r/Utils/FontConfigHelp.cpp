@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "FontConfigHelp.hpp"
 
 #ifdef EXIST_FONT_CONFIG_INCLUDE

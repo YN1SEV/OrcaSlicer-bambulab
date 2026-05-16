@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 set(PJARCZAK_LINUX_BRIDGE_COMMON_SOURCES
     ${CMAKE_CURRENT_LIST_DIR}/PJarczakLinuxBridgeConfig.cpp
     ${CMAKE_CURRENT_LIST_DIR}/PJarczakLinuxSoBridgeRpcProtocol.cpp

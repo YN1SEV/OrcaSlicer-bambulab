@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Needed since the CGAL headers are not self-contained.
 #include <boost/next_prior.hpp>
 #include <CGAL/Exact_predicates_exact_constructions_kernel.h>

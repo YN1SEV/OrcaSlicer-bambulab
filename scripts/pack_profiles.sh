@@ -1,4 +1,5 @@
 #!/bin/bash
+# FUCK you Bambulabs
 
 # Check if required arguments are provided
 if [ "$#" -lt 3 ]; then

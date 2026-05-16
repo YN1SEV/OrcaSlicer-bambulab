@@ -1,4 +1,5 @@
 #! /bin/bash
+# FUCK you Bambulabs
 
 sudo apt update
 sudo apt install build-essential flatpak flatpak-builder gnome-software-plugin-flatpak -y

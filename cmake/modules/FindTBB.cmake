@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # ported from PrusaSlicer
 set(_q "")
 if(${CMAKE_FIND_PACKAGE_NAME}_FIND_QUIETLY)

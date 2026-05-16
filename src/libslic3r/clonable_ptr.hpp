@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // clonable_ptr: a smart pointer with a usage similar to unique_ptr, with the exception, that
 // the copy constructor / copy assignment operator work by calling the ->clone() method.
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifdef EIGEN_WARNINGS_DISABLED
 #undef EIGEN_WARNINGS_DISABLED
 

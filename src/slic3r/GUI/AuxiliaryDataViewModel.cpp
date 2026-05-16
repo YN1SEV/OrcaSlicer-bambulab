@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "AuxiliaryDataViewModel.hpp"
 #include "libslic3r/libslic3r.h"
 #include "libslic3r/Model.hpp"

@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 cmake_minimum_required(VERSION 3.13)
 project(libslic3r_gui)
 

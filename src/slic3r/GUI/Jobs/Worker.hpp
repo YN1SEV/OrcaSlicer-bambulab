@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef PRUSALSICER_WORKER_HPP
 #define PRUSALSICER_WORKER_HPP
 

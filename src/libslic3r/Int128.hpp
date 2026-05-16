@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // This is an excerpt of from the Clipper library by Angus Johnson, see the license below,
 // implementing a 64 x 64 -> 128bit multiply, and 128bit addition, subtraction and compare
 // operations, to be used with exact geometric predicates.

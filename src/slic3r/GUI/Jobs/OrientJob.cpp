@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "OrientJob.hpp"
 
 #include "libslic3r/Model.hpp"

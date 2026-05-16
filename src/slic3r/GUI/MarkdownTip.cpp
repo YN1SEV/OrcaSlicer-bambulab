@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "MarkdownTip.hpp"
 #include "GUI_App.hpp"
 #include "GUI.hpp"

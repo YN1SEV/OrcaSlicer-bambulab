@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { ChangeDetectorRef, ElementRef, EventEmitter, NgZone, OnInit, QueryList, SimpleChanges } from '@angular/core';
 import Swiper from 'swiper';
 import { Observable, Subject } from 'rxjs';

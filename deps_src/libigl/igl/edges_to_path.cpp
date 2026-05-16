@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "edges_to_path.h"
 #include "dfs.h"
 #include "sort.h"

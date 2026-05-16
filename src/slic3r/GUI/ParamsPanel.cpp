@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 ///////////////////////////////////////////////////////////////////////////
 // C++ code generated with wxFormBuilder (version 3.10.0-4761b0c)
 // http://www.wxformbuilder.org/

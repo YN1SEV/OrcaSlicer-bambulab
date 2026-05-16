@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GCodeWriter.hpp"
 #include "CustomGCode.hpp"
 #include "PrintConfig.hpp"

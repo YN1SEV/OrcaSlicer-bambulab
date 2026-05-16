@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 include(GNUInstallDirs)
 orcaslicer_add_cmake_project(Qhull
     URL "https://github.com/qhull/qhull/archive/v8.0.2.zip"

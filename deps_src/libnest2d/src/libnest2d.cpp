@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <libnest2d/libnest2d.hpp>
 
 namespace libnest2d {

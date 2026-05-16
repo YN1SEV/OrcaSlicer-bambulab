@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import setTransition from './setTransition.js';
 import transitionStart from './transitionStart.js';
 import transitionEnd from './transitionEnd.js';

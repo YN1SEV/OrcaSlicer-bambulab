@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import slideTo from './slideTo.js';
 import slideToLoop from './slideToLoop.js';
 import slideNext from './slideNext.js';

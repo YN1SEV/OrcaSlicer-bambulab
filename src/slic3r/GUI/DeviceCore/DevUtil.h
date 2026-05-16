@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /**
  * @file DevUtil.h
  * @brief Provides common static utility methods for general use.

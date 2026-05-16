@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import Swiper from './types/swiper-class';
 import { SwiperOptions } from './types/swiper-options';
 import { SwiperModule } from './types/shared';

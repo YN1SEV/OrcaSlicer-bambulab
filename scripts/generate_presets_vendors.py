@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # helps manage the static list of vendor names in src/slic3r/GUI/CreatePresetsDialog.cpp
 
 import json

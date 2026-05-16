@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef ANYPTR_HPP
 #define ANYPTR_HPP
 

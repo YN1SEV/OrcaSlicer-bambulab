@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import $ from '../../shared/dom.js';
 export default function Parallax({
   swiper,

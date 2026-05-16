@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 //**********************************************************/
 /* File: uiDeviceUpdateVersion.h
 *  Description: The panel with firmware info

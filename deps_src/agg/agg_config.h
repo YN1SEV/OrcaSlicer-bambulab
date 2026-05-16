@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef AGG_CONFIG_INCLUDED
 #define AGG_CONFIG_INCLUDED
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PerimeterGenerator.hpp"
 #include "AABBTreeLines.hpp"
 #include "BridgeDetector.hpp"

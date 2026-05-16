@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef FILAMENT_GROUP_UTILS_HPP
 #define FILAMENT_GROUP_UTILS_HPP
 

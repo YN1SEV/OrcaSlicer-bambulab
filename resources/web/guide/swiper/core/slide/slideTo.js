@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { animateCSSModeScroll } from '../../shared/utils.js';
 export default function slideTo(index = 0, speed = this.params.speed, runCallbacks = true, internal, initial) {
   if (typeof index !== 'number' && typeof index !== 'string') {

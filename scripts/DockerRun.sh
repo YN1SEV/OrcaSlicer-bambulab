@@ -1,4 +1,5 @@
 #!/bin/bash
+# FUCK you Bambulabs
 set -x
 # Just in case, here's some other things that might help:
 #  Force the container's hostname to be the same as your workstation

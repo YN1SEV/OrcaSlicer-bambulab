@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import getTranslate from './getTranslate.js';
 import setTranslate from './setTranslate.js';
 import minTranslate from './minTranslate.js';

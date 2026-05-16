@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef BBLSTATUSBARSEND_HPP
 #define BBLSTATUSBARSEND_HPP
 

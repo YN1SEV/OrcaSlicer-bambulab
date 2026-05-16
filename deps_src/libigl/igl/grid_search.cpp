@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "grid_search.h"
 #include <iostream>
 #include <cassert>

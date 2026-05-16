@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GLGizmoFdmSupports.hpp"
 
 #include "libslic3r/Model.hpp"

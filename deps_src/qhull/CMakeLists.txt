@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 
 # This CMake file is written specifically to integrate qhull library with Slic3rPE
 # (see https://github.com/prusa3d/PrusaSlicer for more information about the project)

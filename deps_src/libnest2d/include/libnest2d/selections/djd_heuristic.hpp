@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef DJD_HEURISTIC_HPP
 #define DJD_HEURISTIC_HPP
 

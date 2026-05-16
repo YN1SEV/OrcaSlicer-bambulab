@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function setTransition(duration, byController) {
   const swiper = this;
 

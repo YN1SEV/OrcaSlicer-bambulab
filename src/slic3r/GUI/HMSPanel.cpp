@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "HMS.hpp"
 #include "HMSPanel.hpp"
 #include <slic3r/GUI/Widgets/SideTools.hpp>

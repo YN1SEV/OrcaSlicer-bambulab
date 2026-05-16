@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "CutSurface.hpp"
 
 /// models_input.obj - Check transormation of model to each others

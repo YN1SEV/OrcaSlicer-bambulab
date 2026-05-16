@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef TIMELAPSE_POS_PICKER_HPP
 #define TIMELAPSE_POS_PICKER_HPP
 

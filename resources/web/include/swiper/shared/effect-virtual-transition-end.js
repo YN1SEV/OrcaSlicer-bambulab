@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function effectVirtualTransitionEnd({
   swiper,
   duration,

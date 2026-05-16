@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* eslint no-bitwise: ["error", { "allow": [">>"] }] */
 import { nextTick } from '../../shared/utils.js';
 export default function Controller({

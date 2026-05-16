@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BridgeCoreSubprocess.hpp"
 #include "BridgeCoreFrame.hpp"
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "CreateFontNameImageJob.hpp"
 
 #include "libslic3r/Emboss.hpp"

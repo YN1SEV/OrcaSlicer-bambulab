@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 #!/usr/bin/env python3
 """
 Test script for MoonrakerPrinterAgent filament sync feature.

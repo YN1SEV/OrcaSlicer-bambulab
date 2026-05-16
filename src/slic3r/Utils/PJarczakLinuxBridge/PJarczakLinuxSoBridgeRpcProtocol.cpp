@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PJarczakLinuxSoBridgeRpcProtocol.hpp"
 
 #include <array>

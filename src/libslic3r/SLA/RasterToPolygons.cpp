@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "RasterToPolygons.hpp"
 
 #include "AGGRaster.hpp"

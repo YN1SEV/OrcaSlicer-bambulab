@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # Copyright (c) DreamWorks Animation LLC
 #
 # All rights reserved. This software is distributed under the

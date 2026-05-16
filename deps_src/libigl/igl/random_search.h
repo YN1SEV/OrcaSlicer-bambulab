@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_RANDOM_SEARCH_H
 #define IGL_RANDOM_SEARCH_H
 #include "igl_inline.h"

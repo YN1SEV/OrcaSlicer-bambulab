@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /*
  * Copyright (c) 2013-14 Mikko Mononen memon@inside.org
  *

@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # Check if we're building for arm on x86_64 and just for OpenEXR, build fat
 # binaries.  We need this because it compiles some code to generate other
 # source and we need to be able to run the executables.  When we link the

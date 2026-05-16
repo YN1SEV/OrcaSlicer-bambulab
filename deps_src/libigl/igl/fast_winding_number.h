@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_FAST_WINDING_NUMBER
 #define IGL_FAST_WINDING_NUMBER
 #include "igl_inline.h"

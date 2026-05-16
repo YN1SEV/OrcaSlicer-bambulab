@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SupportSpotsGenerator.hpp"
 
 #include "BoundingBox.hpp"

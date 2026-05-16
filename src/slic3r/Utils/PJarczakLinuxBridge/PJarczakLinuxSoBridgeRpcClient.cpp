@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PJarczakLinuxSoBridgeRpcClient.hpp"
 #include "PJarczakLinuxSoBridgeLauncher.hpp"
 #include "PJarczakLinuxSoBridgeRpcProtocol.hpp"

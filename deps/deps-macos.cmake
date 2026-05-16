@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 
 # This ensures dependencies don't use SDK features which are not available in the version specified by Deployment target
 # That can happen when one uses a recent SDK but specifies an older Deployment target

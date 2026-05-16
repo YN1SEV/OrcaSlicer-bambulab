@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef BRUTEFORCEOPTIMIZER_HPP
 #define BRUTEFORCEOPTIMIZER_HPP
 

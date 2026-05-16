@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import Swiper from 'swiper';
 import { isObject, extend } from './utils.js';
 import { paramsList } from './params-list.js';

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GLGizmoBrimEars.hpp"
 #include <glad/gl.h>
 #include "slic3r/GUI/GLCanvas3D.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Adaptive cubic infill was inspired by the work of @mboerwinkle
 // as implemented for Cura.
 // https://github.com/Ultimaker/CuraEngine/issues/381

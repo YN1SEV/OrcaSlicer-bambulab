@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <chrono>
 #include <math.h>
 

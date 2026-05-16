@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SUPPORTTREEMESHER_HPP
 #define SUPPORTTREEMESHER_HPP
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 var LangText = {
   en: {
     t1: "Welcome to Orca Slicer",

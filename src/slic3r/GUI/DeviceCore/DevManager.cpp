@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <nlohmann/json.hpp>
 #include "DevManager.h"
 #include "DevUtil.h"

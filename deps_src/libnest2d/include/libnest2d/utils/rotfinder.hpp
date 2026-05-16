@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef ROTFINDER_HPP
 #define ROTFINDER_HPP
 

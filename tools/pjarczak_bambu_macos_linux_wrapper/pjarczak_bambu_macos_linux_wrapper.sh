@@ -1,4 +1,5 @@
 #!/bin/sh
+# FUCK you Bambulabs
 set -eu
 
 HOST_PATH="${1:-}"

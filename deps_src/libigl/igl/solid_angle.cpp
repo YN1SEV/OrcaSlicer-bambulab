@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "solid_angle.h"
 #include "PI.h"
 #include <cmath>

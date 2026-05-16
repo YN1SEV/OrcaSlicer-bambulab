@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "calib.hpp"
 #include "BoundingBox.hpp"
 #include "Config.hpp"

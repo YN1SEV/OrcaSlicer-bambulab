@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 
 /*------------------ Date Function ------------------------*/
 function GetFullToday( )

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "MultiPoint.hpp"
 #include "BoundingBox.hpp"
 

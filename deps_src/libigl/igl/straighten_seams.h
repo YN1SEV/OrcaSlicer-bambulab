@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_STRAIGHTEN_SEAMS_H
 #define IGL_STRAIGHTEN_SEAMS_H
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_RAMER_DOUGLAS_PEUCKER_H
 #define IGL_RAMER_DOUGLAS_PEUCKER_H
 #include "igl_inline.h"

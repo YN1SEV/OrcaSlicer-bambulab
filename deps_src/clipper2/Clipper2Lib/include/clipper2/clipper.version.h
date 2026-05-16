@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef CLIPPER_VERSION_H
 #define CLIPPER_VERSION_H
 

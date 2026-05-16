@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { isObject } from '../../shared/utils.js';
 import $ from '../../shared/dom.js';
 export default function Thumb({

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef slic3r_Geometry_MedialAxis_hpp_
 #define slic3r_Geometry_MedialAxis_hpp_
 

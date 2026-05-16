@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { now } from '../../shared/utils.js';
 export default function freeMode({
   swiper,

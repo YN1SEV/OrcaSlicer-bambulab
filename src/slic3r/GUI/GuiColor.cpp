@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GuiColor.hpp"
 
 namespace Slic3r { namespace GUI {

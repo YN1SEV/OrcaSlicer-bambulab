@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BitmapCache.hpp"
 
 #include "libslic3r/Utils.hpp"

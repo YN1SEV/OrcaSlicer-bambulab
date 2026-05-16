@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLA_CONCAVEHULL_HPP
 #define SLA_CONCAVEHULL_HPP
 

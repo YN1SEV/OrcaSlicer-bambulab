@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "AmsWidgets.hpp"
 #include <wx/button.h>
 #include <wx/sizer.h>

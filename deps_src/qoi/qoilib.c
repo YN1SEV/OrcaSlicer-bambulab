@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // PrusaSlicer specific: 
 // Include and compile QOI library.
 

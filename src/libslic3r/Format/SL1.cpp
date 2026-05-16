@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SL1.hpp"
 #include "GCode/ThumbnailData.hpp"
 #include "libslic3r/Time.hpp"

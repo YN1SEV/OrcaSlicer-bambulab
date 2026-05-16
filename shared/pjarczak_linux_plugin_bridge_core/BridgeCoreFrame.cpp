@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BridgeCoreFrame.hpp"
 
 namespace PJarczak::LinuxPluginBridgeCore {

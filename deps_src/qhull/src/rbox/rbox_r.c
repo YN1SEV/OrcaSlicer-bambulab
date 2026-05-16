@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 
 /*<html><pre>  -<a                             href="../libqhull/index.htm#TOC"
   >-------------------------------</a><a name="TOP">-</a>

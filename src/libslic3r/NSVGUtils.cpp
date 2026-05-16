@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "NSVGUtils.hpp"
 #include <array>
 #include <charconv> // to_chars

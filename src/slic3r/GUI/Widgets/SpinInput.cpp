@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SpinInput.hpp"
 #include "Label.hpp"
 #include "Button.hpp"

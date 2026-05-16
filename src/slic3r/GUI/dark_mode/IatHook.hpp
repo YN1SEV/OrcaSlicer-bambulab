@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // This file contains code from
 // https://github.com/stevemk14ebr/PolyHook_2_0/blob/master/sources/IatHook.cpp
 // which is licensed under the MIT License.

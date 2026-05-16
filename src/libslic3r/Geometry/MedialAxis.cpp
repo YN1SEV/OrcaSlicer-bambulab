@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <boost/log/trivial.hpp>
 #include "MedialAxis.hpp"
 

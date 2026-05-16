@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ReleaseNote.hpp"
 #include "I18N.hpp"
 

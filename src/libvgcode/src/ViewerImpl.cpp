@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 ///|/ Copyright (c) Prusa Research 2023 Enrico Turri @enricoturri1966, Pavel Mikuš @Godrak, Vojtěch Bubník @bubnikv, Oleksandra Iushchenko @YuSanka
 ///|/
 ///|/ libvgcode is released under the terms of the AGPLv3 or higher

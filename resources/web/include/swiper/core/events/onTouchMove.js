@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getDocument } from 'ssr-window';
 import $ from '../../shared/dom.js';
 import { now } from '../../shared/utils.js';

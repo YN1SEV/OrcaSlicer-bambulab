@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 add_library(pjarczak_linux_plugin_bridge_core STATIC
     BridgeCoreFrame.cpp
     BridgeCoreCallbackQueue.cpp

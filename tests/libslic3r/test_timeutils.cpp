@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <catch2/catch_all.hpp>
 
 #include "libslic3r/Time.hpp"

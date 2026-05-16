@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getWindow } from 'ssr-window';
 import { getSupport } from './get-support.js';
 let deviceCached;

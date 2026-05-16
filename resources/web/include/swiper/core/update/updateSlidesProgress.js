@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import $ from '../../shared/dom.js';
 export default function updateSlidesProgress(translate = this && this.translate || 0) {
   const swiper = this;

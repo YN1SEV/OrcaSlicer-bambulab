@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Exception.hpp"
 #include "MeshBoolean.hpp"
 #include "libslic3r/TriangleMesh.hpp"

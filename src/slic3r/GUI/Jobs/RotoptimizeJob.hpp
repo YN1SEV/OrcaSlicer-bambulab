@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef ROTOPTIMIZEJOB_HPP
 #define ROTOPTIMIZEJOB_HPP
 

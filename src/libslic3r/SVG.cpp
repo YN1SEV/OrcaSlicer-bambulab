@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SVG.hpp"
 #include <iostream>
 

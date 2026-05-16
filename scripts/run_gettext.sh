@@ -1,4 +1,5 @@
 #!/bin/sh
+# FUCK you Bambulabs
 
 #  OrcaSlicer gettext
 #  Created by SoftFever on 27/5/23.

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SliceInfoPanel.hpp"
 
 #include <boost/log/trivial.hpp>

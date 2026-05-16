@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <algorithm>
 #include <vector>
 #include <float.h>

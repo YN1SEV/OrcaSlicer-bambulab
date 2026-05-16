@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { h, ref, onMounted, onUpdated, onBeforeUpdate, computed, onBeforeUnmount } from 'vue';
 import { uniqueClasses } from './utils.js';
 const SwiperSlide = {

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SysInfoDialog.hpp"
 #include "I18N.hpp"
 #include "3DScene.hpp"

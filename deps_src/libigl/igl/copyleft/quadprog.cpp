@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "quadprog.h"
 #include <vector>
 /*

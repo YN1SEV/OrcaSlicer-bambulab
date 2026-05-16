@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "wxMediaCtrl3.h"
 #include "AVVideoDecoder.hpp"
 #include "I18N.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "bfs.h"
 #include "list_to_matrix.h"
 #include <vector>

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export interface FreeModeMethods {
   onTouchMove(): void;
   onTouchEnd(): void;

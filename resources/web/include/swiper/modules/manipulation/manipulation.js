@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import appendSlide from './methods/appendSlide.js';
 import prependSlide from './methods/prependSlide.js';
 import addSlide from './methods/addSlide.js';

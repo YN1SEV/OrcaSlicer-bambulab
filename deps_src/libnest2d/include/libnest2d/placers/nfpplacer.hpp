@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef NOFITPOLY_HPP
 #define NOFITPOLY_HPP
 

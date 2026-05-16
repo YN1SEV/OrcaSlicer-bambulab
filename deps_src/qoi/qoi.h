@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /*
 
 QOI - The "Quite OK Image" format for fast, lossless image compression

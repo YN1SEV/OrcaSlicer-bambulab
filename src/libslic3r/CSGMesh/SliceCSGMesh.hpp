@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLICECSGMESH_HPP
 #define SLICECSGMESH_HPP
 

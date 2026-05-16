@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Orca: WipeTower2 for all non bbl printers, support all MMU device and toolchanger.
 #include "WipeTower2.hpp"
 

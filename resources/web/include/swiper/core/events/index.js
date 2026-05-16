@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getDocument } from 'ssr-window';
 import onTouchStart from './onTouchStart.js';
 import onTouchMove from './onTouchMove.js';

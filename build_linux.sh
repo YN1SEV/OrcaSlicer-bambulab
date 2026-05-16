@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# FUCK you Bambulabs
 set -e # Exit immediately if a command exits with a non-zero status.
 SECONDS=0
 

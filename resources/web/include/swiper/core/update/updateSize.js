@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function updateSize() {
   const swiper = this;
   let width;

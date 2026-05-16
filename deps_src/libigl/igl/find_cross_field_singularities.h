@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // This file is part of libigl, a simple c++ geometry processing library.
 //
 // Copyright (C) 2014 Daniele Panozzo <daniele.panozzo@gmail.com>, Olga Diamanti <olga.diam@gmail.com>

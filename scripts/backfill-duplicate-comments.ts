@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #!/usr/bin/env bun
 
 declare global {

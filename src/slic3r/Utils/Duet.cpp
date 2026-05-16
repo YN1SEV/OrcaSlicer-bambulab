@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Duet.hpp"
 
 #include <algorithm>

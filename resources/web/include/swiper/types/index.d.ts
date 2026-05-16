@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export * from './shared';
 export { default as Swiper } from './swiper-class';
 export * from './swiper-events';

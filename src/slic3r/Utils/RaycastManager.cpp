@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "RaycastManager.hpp"
 #include <utility>
 

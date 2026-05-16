@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # Add individual tests as executables in separate directories at the bottom of this file
 
 add_subdirectory(catch2)

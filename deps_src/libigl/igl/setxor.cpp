@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "setxor.h"
 #include "setdiff.h"
 #include "setunion.h"

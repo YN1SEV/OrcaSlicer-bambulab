@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BBLStatusBarSend.hpp"
 
 #include <wx/timer.h>

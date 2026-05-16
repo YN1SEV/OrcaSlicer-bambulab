@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "NotificationProgressIndicator.hpp"
 #include "slic3r/GUI/NotificationManager.hpp"
 

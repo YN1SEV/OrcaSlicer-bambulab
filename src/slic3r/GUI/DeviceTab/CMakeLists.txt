@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 
 list(APPEND SLIC3R_GUI_SOURCES
     GUI/DeviceTab/uiAmsHumidityPopup.h

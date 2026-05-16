@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "RemovableDriveManager.hpp"
 #include "libslic3r/Platform.hpp"
 #include <libslic3r/libslic3r.h>

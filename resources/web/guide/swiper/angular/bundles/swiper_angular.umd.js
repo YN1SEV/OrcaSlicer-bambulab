@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('@angular/common'), require('swiper'), require('rxjs')) :
     typeof define === 'function' && define.amd ? define('swiper_angular', ['exports', '@angular/core', '@angular/common', 'swiper', 'rxjs'], factory) :

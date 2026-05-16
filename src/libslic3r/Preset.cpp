@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <cassert>
 
 #include "Config.hpp"

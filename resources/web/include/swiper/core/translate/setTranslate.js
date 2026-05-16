@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function setTranslate(translate, byController) {
   const swiper = this;
   const {

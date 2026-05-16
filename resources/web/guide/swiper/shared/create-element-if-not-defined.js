@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getDocument } from 'ssr-window';
 export default function createElementIfNotDefined(swiper, originalParams, params, checkProps) {
   const document = getDocument();

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Clipper2Utils.hpp"
 #include "libslic3r.h"
 #include "clipper2/clipper.h"

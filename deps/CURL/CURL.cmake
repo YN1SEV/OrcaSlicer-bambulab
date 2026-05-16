@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 set(_curl_platform_flags 
   -DENABLE_IPV6:BOOL=ON
   -DENABLE_VERSIONED_SYMBOLS:BOOL=ON

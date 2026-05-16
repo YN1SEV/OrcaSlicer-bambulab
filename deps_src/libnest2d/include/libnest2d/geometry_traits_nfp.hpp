@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef GEOMETRIES_NOFITPOLYGON_HPP
 #define GEOMETRIES_NOFITPOLYGON_HPP
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getWindow } from 'ssr-window';
 
 function deleteProps(obj) {

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* internal.h
 
    Internal definitions used by Expat.  This is not needed to compile

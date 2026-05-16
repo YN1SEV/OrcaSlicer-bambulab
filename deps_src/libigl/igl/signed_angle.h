@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_SIGNED_ANGLE_H
 #define IGL_SIGNED_ANGLE_H
 #include "igl_inline.h"

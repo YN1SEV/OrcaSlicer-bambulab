@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Tab.hpp"
 #include "libslic3r/Utils.hpp"
 #include "libslic3r/Model.hpp"

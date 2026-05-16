@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLA_TEST_UTILS_HPP
 #define SLA_TEST_UTILS_HPP
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /**
 * @file DevConfigUtil.h
 * @brief Parses configuration files and provides access to printer options.

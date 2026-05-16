@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ZipperArchiveImport.hpp"
 
 #include "libslic3r/miniz_extension.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GUI_App.hpp"
 #include "CapsuleButton.hpp"
 #include <wx/dcbuffer.h>

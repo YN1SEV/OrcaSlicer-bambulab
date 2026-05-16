@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 
 /*<html><pre>  -<a                             href="qh-globa_r.htm"
   >-------------------------------</a><a name="TOP">-</a>

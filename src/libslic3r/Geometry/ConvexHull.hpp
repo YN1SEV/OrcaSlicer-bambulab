@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef slic3r_Geometry_ConvexHull_hpp_
 #define slic3r_Geometry_ConvexHull_hpp_
 

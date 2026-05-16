@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { useEffect, useLayoutEffect } from 'react';
 
 function useIsomorphicLayoutEffect(callback, deps) {

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef _BaseTransparentDPIFrame_H_
 #define _BaseTransparentDPIFrame_H_
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLIC3R_TEST_UTILS
 #define SLIC3R_TEST_UTILS
 

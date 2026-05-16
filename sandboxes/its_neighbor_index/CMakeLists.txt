@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 add_executable(its_neighbor_index main.cpp ItsNeighborIndex.cpp ItsNeighborIndex.hpp)
 
 target_link_libraries(its_neighbor_index libslic3r admesh)

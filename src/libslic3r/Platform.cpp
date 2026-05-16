@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Platform.hpp"
 
 #include <boost/log/trivial.hpp>

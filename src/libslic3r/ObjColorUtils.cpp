@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ObjColorUtils.hpp"
 
 bool obj_color_deal_algo(std::vector<Slic3r::RGBA> & input_colors,

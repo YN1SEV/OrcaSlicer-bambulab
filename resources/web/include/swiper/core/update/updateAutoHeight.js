@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function updateAutoHeight(speed) {
   const swiper = this;
   const activeSlides = [];

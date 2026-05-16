@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "json_diff.hpp"
 #include <string>
 #include <atomic>

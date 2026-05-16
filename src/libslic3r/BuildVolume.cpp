@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BuildVolume.hpp"
 #include "ClipperUtils.hpp"
 #include "TriangleMesh.hpp"

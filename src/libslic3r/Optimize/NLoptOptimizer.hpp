@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef NLOPTOPTIMIZER_HPP
 #define NLOPTOPTIMIZER_HPP
 

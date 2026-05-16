@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_OPENGL_BIND_VERTEX_ATTRIB_ARRAY_H
 #define IGL_OPENGL_BIND_VERTEX_ATTRIB_ARRAY_H
 #include "gl.h"

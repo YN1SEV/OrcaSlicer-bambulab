@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 
 #ifndef _WX_ERRORMSGSTATTEXT_H_
 #define _WX_ERRORMSGSTATTEXT_H_

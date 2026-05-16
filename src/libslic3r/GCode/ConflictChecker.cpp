@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ConflictChecker.hpp"
 
 #include <tbb/parallel_for.h>

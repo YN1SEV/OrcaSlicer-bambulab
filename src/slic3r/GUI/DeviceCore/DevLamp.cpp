@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "DevLamp.h"
 
 static Slic3r::DevLamp::LIGHT_EFFECT _light_effect_parse(std::string effect_str)

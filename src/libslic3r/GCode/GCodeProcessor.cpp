@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ExtrusionEntity.hpp"
 #include "GCodeWriter.hpp"
 #include "PrintConfig.hpp"

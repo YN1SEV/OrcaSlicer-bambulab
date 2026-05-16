@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function prependSlide(slides) {
   const swiper = this;
   const {

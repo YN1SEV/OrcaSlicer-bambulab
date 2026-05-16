@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef __BBL_CLOUD_SERVICE_AGENT_HPP__
 #define __BBL_CLOUD_SERVICE_AGENT_HPP__
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef TRIANGLEMESHADAPTER_HPP
 #define TRIANGLEMESHADAPTER_HPP
 

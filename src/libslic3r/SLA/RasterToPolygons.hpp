@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef RASTERTOPOLYGONS_HPP
 #define RASTERTOPOLYGONS_HPP
 

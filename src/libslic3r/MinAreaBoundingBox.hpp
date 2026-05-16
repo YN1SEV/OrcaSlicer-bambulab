@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef MINAREABOUNDINGBOX_HPP
 #define MINAREABOUNDINGBOX_HPP
 

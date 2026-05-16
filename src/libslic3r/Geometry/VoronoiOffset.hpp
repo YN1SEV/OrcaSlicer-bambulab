@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Polygon offsetting using Voronoi diagram prodiced by boost::polygon.
 
 #ifndef slic3r_VoronoiOffset_hpp_

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "CustomGCode.hpp"
 #include "Config.hpp"
 #include "GCode.hpp"

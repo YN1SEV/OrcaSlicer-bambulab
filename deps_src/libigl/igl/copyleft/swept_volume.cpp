@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "swept_volume.h"
 #include "../swept_volume_bounding_box.h"
 #include "../swept_volume_signed_distance.h"

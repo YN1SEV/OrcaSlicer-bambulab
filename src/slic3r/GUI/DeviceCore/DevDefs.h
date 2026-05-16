@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /**
 * @file  DevDefs.h
 * @brief Common definitions, macros, and constants for printer modules.

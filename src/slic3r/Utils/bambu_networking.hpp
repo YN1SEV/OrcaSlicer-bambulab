@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef __BAMBU_NETWORKING_HPP__
 #define __BAMBU_NETWORKING_HPP__
 

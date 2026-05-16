@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 #----------------------------------------------------------------
 # Generated CMake target import file for configuration "RelWithDebInfo".
 #----------------------------------------------------------------

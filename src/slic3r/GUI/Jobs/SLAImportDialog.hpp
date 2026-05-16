@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLAIMPORTDIALOG_HPP
 #define SLAIMPORTDIALOG_HPP
 

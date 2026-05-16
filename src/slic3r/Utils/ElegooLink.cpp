@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ElegooLink.hpp"
 
 #include <algorithm>

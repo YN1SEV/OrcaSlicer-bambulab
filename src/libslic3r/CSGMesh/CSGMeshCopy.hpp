@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef CSGMESHCOPY_HPP
 #define CSGMESHCOPY_HPP
 

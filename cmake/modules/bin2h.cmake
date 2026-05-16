@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # Source: https://gist.github.com/sivachandran/3a0de157dccef822a230#file-bin2h-cmake
 # Added modifications to suit prusaslicer
 include(CMakeParseArguments)

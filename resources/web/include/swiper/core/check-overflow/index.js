@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 function checkOverflow() {
   const swiper = this;
   const {

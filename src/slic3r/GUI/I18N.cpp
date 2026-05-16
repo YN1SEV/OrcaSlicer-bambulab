@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "I18N.hpp"
 
 namespace Slic3r { namespace GUI { 

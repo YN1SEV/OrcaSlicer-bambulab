@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "LinuxPluginHost.hpp"
 
 #include "../../shared/pjarczak_linux_plugin_bridge_core/BridgeCoreJson.hpp"

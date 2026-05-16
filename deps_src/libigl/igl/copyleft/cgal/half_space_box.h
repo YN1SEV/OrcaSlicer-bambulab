@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_COPYLEFT_CGAL_HALF_SPACE_BOX_H
 #define IGL_COPYLEFT_CGAL_HALF_SPACE_BOX_H
 #include "../../igl_inline.h"

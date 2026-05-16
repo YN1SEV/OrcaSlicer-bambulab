@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import $ from '../../shared/dom.js';
 import { nextTick } from '../../shared/utils.js';
 export default function slideToClickedSlide() {

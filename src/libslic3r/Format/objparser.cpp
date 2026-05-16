@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <stdlib.h>
 #include <string.h>
 

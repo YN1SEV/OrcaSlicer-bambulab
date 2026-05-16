@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef BBLStatusBarBind_HPP
 #define BBLStatusBarBind_HPP
 

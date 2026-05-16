@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 ///////////////////////// ankerl::unordered_dense::{map, set} /////////////////////////
 
 // A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion.

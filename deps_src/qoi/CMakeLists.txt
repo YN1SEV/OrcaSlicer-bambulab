@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # PrusaSlicer specific CMake
 
 cmake_minimum_required(VERSION 3.13)

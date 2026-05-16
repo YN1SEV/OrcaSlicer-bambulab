@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "FaceDetector.hpp"
 #include "TriangleMesh.hpp"
 #include "SLA/IndexedMesh.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef ASTAR_HPP
 #define ASTAR_HPP
 

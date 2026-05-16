@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { A11yOptions } from './modules/a11y';
 import { AutoplayOptions } from './modules/autoplay';
 import { ControllerOptions } from './modules/controller';

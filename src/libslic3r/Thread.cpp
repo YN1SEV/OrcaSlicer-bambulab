@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifdef _WIN32
 	#include <windows.h>
 	#include <boost/nowide/convert.hpp>

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "LineSplit.hpp"
 
 #include "AABBTreeLines.hpp"

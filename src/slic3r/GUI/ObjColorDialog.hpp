@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef _OBJ_COLOR_DIALOG_H_
 #define _OBJ_COLOR_DIALOG_H_
 

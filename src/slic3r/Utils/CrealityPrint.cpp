@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "CrealityPrint.hpp"
 
 #include <algorithm>

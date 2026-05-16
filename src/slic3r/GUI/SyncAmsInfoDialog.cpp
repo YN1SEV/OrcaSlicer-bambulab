@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SyncAmsInfoDialog.hpp"
 
 #include <thread>

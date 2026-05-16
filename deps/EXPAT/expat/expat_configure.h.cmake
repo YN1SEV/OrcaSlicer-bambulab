@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 /* expat_config.h.cmake.  Based upon generated expat_config.h.in.  */
 
 #ifndef EXPAT_CONFIG_H

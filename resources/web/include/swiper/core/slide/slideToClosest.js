@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* eslint no-unused-vars: "off" */
 export default function slideToClosest(speed = this.params.speed, runCallbacks = true, internal, threshold = 0.5) {
   const swiper = this;

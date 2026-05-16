@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <glad/gl.h>
 #include "SkipPartCanvas.hpp"
 

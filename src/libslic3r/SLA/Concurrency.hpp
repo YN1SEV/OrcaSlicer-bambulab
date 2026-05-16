@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLA_CONCURRENCY_H
 #define SLA_CONCURRENCY_H
 

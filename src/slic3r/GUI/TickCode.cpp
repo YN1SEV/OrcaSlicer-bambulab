@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "TickCode.hpp"
 
 namespace Slic3r {

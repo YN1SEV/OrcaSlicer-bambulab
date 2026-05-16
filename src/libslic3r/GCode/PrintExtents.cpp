@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Calculate extents of the extrusions assigned to Print / PrintObject.
 // The extents are used for assessing collisions of the print with the priming towers,
 // to decide whether to pause the print after the priming towers are extruded

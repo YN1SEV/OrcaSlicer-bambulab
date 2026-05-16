@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 ﻿#include "string_to_mesh_boolean_type.h"
 #include <algorithm>
 #include <cassert>

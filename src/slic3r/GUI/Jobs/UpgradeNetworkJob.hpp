@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef __UpgradeNetworkJob_HPP__
 #define __UpgradeNetworkJob_HPP__
 

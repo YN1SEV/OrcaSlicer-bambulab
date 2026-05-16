@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Process.hpp"
 
 #include <libslic3r/AppConfig.hpp>

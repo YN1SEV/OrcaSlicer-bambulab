@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import * as i0 from '@angular/core';
 import { Directive, Input, EventEmitter, PLATFORM_ID, Component, ChangeDetectionStrategy, ViewEncapsulation, Inject, Output, ViewChild, ContentChildren, HostBinding, NgModule } from '@angular/core';
 import * as i1 from '@angular/common';

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "JumpPointSearch.hpp"
 #include "BoundingBox.hpp"
 #include "ExPolygon.hpp"

@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # atomic builtins are required for threading support.
 
 INCLUDE(CheckCXXSourceCompiles)

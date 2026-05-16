@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ThumbnailData.hpp"
 
 namespace Slic3r {

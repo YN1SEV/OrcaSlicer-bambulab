@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef libslic3r_Timer_hpp_
 #define libslic3r_Timer_hpp_
 

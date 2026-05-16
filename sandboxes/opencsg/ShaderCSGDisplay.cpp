@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ShaderCSGDisplay.hpp"
 #include "libslic3r/SLAPrint.hpp"
 #include <GL/glew.h>

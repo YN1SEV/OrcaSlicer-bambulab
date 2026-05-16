@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef MARCHINGSQUARES_HPP
 #define MARCHINGSQUARES_HPP
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PrintConfig.hpp"
 #include "PrintConfigConstants.hpp"
 #include "ClipperUtils.hpp"

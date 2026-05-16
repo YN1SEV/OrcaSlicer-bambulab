@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "MainFrame.hpp"
 
 #include <wx/panel.h>

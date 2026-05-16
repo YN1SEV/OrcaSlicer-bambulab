@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { isObject, extend } from './utils.js';
 
 function updateSwiper({

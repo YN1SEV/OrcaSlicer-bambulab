@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "AmsMappingPopup.hpp"
 #include "I18N.hpp"
 

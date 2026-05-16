@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "OptionsGroup.hpp"
 #include "ConfigExceptions.hpp"
 #include "Plater.hpp"

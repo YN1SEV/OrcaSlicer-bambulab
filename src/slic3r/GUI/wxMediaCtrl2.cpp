@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "wxMediaCtrl2.h"
 #include "I18N.hpp"
 #include "GUI_App.hpp"

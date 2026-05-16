@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef NESTER_HPP
 #define NESTER_HPP
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "knn.h"
 #include "parallel_for.h"
 

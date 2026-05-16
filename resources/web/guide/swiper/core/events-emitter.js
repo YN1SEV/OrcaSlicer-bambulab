@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* eslint-disable no-underscore-dangle */
 export default {
   on(events, handler, priority) {

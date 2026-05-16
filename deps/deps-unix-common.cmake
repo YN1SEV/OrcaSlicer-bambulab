@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 
 # The unix common part expects DEP_CMAKE_OPTS to be set
 

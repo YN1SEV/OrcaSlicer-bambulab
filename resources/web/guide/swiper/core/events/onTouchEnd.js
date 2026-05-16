@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { now, nextTick } from '../../shared/utils.js';
 export default function onTouchEnd(event) {
   const swiper = this;

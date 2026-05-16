@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "VariableWidth.hpp"
 
 namespace Slic3r {

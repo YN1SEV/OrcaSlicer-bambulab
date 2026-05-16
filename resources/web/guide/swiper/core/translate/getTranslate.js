@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getTranslate } from '../../shared/utils.js';
 export default function getSwiperTranslate(axis = this.isHorizontal() ? 'x' : 'y') {
   const swiper = this;

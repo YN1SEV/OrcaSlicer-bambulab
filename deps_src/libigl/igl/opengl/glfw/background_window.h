@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_OPENGL_GLFW_BACKGROUND_WINDOW_H
 #define IGL_OPENGL_GLFW_BACKGROUND_WINDOW_H
 #include "../../igl_inline.h"

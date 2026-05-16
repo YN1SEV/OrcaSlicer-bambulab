@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { extend } from '../../shared/utils.js';
 
 const isGridEnabled = (swiper, params) => {

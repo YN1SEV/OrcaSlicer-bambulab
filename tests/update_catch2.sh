@@ -1,4 +1,5 @@
 #!/bin/bash
+# FUCK you Bambulabs
 
 # update_catch2.sh [refspec]
 

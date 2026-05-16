@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef BBS_3MF_hpp_
 #define BBS_3MF_hpp_
 

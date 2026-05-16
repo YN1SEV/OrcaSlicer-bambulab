@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SendJob.hpp"
 #include "libslic3r/MTUtils.hpp"
 #include "libslic3r/Model.hpp"

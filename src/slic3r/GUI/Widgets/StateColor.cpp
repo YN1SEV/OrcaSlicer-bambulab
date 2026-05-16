@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "StateColor.hpp"
 #include <cmath>
 

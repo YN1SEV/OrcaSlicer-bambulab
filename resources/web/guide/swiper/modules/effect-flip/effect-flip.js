@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import createShadow from '../../shared/create-shadow.js';
 import effectInit from '../../shared/effect-init.js';
 import effectTarget from '../../shared/effect-target.js';

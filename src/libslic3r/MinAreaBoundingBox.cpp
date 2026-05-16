@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "MinAreaBoundingBox.hpp"
 
 #include <libslic3r/ExPolygon.hpp>

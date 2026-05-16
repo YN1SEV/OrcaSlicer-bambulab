@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef GEOMETRY_TRAITS_HPP
 #define GEOMETRY_TRAITS_HPP
 

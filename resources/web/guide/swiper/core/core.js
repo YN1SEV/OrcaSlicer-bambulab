@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* eslint no-param-reassign: "off" */
 import { getDocument } from 'ssr-window';
 import $ from '../shared/dom.js';

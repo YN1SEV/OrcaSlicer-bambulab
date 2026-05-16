@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 set(_wx_toolkit "")
 set(_wx_debug_postfix "")
 set(_wx_shared -DwxBUILD_SHARED=OFF)

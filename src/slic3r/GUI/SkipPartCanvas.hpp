@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SKIPPARTCANVAS_H
 #define SKIPPARTCANVAS_H
 #include <wx/wx.h>

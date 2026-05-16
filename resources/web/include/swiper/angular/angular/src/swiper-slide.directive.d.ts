@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { TemplateRef } from '@angular/core';
 import * as i0 from "@angular/core";
 export declare class SwiperSlideDirective {

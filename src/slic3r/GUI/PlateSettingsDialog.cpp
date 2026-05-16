@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PlateSettingsDialog.hpp"
 #include "MsgDialog.hpp"
 #include "Widgets/DialogButtons.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export interface CubeEffectMethods {}
 
 export interface CubeEffectEvents {}

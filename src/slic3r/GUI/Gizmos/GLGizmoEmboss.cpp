@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GLGizmoEmboss.hpp"
 #include "slic3r/GUI/GLCanvas3D.hpp"
 #include "slic3r/GUI/GUI_App.hpp"

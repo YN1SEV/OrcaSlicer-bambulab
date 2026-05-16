@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import React from 'react';
 import Swiper from 'swiper';
 

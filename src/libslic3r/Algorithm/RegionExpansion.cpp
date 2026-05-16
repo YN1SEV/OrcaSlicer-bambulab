@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "RegionExpansion.hpp"
 
 #include <libslic3r/AABBTreeIndirect.hpp>

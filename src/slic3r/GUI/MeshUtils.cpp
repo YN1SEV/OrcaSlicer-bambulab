@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "MeshUtils.hpp"
 
 #include "libslic3r/Tesselate.hpp"

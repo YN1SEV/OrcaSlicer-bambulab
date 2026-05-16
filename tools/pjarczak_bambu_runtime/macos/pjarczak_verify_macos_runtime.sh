@@ -1,4 +1,5 @@
 #!/bin/bash
+# FUCK you Bambulabs
 set -euo pipefail
 
 PACKAGE_DIR=""

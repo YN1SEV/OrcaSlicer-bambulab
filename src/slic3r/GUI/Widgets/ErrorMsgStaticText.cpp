@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ErrorMsgStaticText.hpp"
 #include <wx/dcclient.h>
 

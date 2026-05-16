@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* bambusrc for gstreamer
  * integration with proprietary Bambu Lab blob for getting raw h.264 video
  *

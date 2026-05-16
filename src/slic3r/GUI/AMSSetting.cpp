@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "AMSSetting.hpp"
 #include "GUI_App.hpp"
 #include "I18N.hpp"

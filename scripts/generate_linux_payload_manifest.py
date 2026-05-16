@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 #!/usr/bin/env python3
 import argparse, hashlib, json
 from pathlib import Path

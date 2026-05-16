@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 if(TARGET OpenVDB::openvdb)
     add_executable(openvdb_example openvdb_example.cpp)
 

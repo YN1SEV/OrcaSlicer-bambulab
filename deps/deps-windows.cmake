@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # https://cmake.org/cmake/help/latest/variable/MSVC_VERSION.html
 if (MSVC_VERSION EQUAL 1800)
 # 1800      = VS 12.0 (v120 toolset)

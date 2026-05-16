@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Hackish wrapper around the ClipperLib library to compile the Clipper library with the Z support.
 
 #ifndef clipper_z_hpp

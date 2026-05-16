@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Time.hpp"
 
 #include <iomanip>

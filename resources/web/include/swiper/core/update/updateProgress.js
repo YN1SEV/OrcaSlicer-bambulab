@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function updateProgress(translate) {
   const swiper = this;
 

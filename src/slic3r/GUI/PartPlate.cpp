@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <cstddef>
 #include <algorithm>
 #include <numeric>

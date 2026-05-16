@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BoundingBox.hpp"
 #include "Surface.hpp"
 #include "SVG.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getWindow, getDocument } from 'ssr-window';
 let support;
 

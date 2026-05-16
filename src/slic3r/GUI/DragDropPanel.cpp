@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "DragDropPanel.hpp"
 #include "Widgets/Label.hpp"
 #include <slic3r/GUI/wxExtensions.hpp>

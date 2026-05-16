@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "LinuxPluginHost.hpp"
 #include "../../src/slic3r/Utils/PJarczakLinuxBridge/PJarczakLinuxSoBridgeRpcProtocol.hpp"
 

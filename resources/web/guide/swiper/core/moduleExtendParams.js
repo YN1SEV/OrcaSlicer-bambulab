@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { extend } from '../shared/utils.js';
 export default function moduleExtendParams(params, allModulesParams) {
   return function extendParams(obj = {}) {

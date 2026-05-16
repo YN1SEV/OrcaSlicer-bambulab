@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "CreateFontStyleImagesJob.hpp"
 
 // rasterization of ExPoly

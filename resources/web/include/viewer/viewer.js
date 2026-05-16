@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /*!
  * Viewer.js v1.5.0
  * https://fengyuanchen.github.io/viewerjs

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <libslic3r/SLA/ConcaveHull.hpp>
 #include <libslic3r/SLA/SpatIndex.hpp>
 

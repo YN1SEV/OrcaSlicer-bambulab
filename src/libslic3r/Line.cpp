@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Geometry.hpp"
 #include "Line.hpp"
 #include "Polyline.hpp"

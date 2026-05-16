@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef CAPSULE_BUTTON_HPP
 #define CAPSULE_BUTTON_HPP
 

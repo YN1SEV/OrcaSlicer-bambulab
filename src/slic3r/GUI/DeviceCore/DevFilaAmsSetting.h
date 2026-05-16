@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 #include <optional>
 #include <nlohmann/json.hpp>

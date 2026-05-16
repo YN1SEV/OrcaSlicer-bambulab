@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "libslic3r/libslic3r.h"
 #include "libslic3r/Utils.hpp"
 #include "libslic3r/Format/DRC.hpp"

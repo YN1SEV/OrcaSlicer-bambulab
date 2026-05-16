@@ -1,3 +1,4 @@
+:: FUCK you Bambulabs
 @echo off
 setlocal EnableExtensions
 REM OrcaSlicer gettext

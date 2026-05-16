@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import createElementIfNotDefined from '../../shared/create-element-if-not-defined.js';
 import $ from '../../shared/dom.js';
 export default function Navigation({

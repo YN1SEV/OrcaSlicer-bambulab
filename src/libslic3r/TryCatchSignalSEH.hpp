@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef TRY_CATCH_SIGNAL_SEH_HPP
 #define TRY_CATCH_SIGNAL_SEH_HPP
 

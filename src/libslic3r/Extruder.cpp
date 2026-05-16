@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Extruder.hpp"
 #include "PrintConfig.hpp"
 

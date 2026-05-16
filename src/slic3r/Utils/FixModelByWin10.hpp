@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef slic3r_GUI_Utils_FixModelByWin10_hpp_
 #define slic3r_GUI_Utils_FixModelByWin10_hpp_
 

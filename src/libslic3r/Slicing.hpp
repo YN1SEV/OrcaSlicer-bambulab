@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Based on implementation by @platsch
 
 #ifndef slic3r_Slicing_hpp_

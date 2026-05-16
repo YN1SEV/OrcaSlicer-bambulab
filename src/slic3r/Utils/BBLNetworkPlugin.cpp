@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BBLNetworkPlugin.hpp"
 #include "NetworkAgent.hpp"
 #include "PJarczakLinuxBridge/PJarczakLinuxBridgeConfig.hpp"

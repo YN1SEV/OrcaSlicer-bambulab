@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import React from 'react';
 
 function updateOnVirtualData(swiper) {

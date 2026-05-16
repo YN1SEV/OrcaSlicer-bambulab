@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // AABB tree built upon external data set, referencing the external data by integer indices.
 // The AABB tree balancing and traversal (ray casting, closest triangle of an indexed triangle mesh)
 // were adapted from libigl AABB.{cpp,hpp} Copyright (C) 2015 Alec Jacobson <alecjacobson@gmail.com>

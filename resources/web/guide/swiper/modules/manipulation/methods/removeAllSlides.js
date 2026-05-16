@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function removeAllSlides() {
   const swiper = this;
   const slidesIndexes = [];

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLA_SPATINDEX_HPP
 #define SLA_SPATINDEX_HPP
 

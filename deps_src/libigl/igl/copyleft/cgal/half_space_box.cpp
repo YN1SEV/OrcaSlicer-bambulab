@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "half_space_box.h"
 #include "assign_scalar.h"
 #include <CGAL/Point_3.h>

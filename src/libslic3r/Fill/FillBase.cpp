@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <stdio.h>
 #include <numeric>
 

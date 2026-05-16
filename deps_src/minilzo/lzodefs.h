@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* lzodefs.h -- architecture, OS and compiler specific defines
 
    This file is part of the LZO real-time data compression library.

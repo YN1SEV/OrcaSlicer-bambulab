@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "../Layer.hpp"
 #include "../GCode.hpp"
 #include "../EdgeGrid.hpp"

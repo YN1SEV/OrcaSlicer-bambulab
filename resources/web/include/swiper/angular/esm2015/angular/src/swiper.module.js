@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SwiperComponent } from './swiper.component';

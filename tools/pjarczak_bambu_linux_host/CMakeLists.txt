@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 cmake_minimum_required(VERSION 3.16)
 project(pjarczak_bambu_linux_host_standalone LANGUAGES C CXX)
 

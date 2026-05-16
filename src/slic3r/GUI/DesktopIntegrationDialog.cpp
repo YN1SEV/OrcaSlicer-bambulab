@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifdef __linux__
 #include "DesktopIntegrationDialog.hpp"
 #include "GUI_App.hpp"

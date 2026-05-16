@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "DragCanvas.hpp"
 #include "wxExtensions.hpp"
 #include "GUI_App.hpp"

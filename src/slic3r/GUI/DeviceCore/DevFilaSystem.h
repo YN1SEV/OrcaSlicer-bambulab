@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 #include "libslic3r/CommonDefs.hpp"
 #include "slic3r/Utils/json_diff.hpp"

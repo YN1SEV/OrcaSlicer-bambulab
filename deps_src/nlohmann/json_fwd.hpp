@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef INCLUDE_NLOHMANN_JSON_FWD_HPP_
 #define INCLUDE_NLOHMANN_JSON_FWD_HPP_
 

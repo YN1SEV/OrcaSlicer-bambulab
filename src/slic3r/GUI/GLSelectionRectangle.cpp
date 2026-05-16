@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GLSelectionRectangle.hpp"
 #include "Camera.hpp"
 #include "CameraUtils.hpp"

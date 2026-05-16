@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "StatusPanel.hpp"
 #include "I18N.hpp"
 #include "Widgets/Label.hpp"

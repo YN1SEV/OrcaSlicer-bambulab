@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 #include <optional>
 #include "libslic3r/CommonDefs.hpp"

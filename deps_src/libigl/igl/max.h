@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_MAX_H
 #define IGL_MAX_H
 #include "igl_inline.h"

@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 set(patch_command git init && ${PATCH_CMD} ${CMAKE_CURRENT_LIST_DIR}/0001-Respect-BUILD_SHARED_LIBS.patch)
 
 orcaslicer_add_cmake_project(ZLIB

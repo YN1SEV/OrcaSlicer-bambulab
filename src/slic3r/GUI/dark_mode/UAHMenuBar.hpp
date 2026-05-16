@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 
 // MIT license, see LICENSE

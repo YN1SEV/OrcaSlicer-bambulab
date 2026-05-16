@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #//! user_eg3_r.cpp -- Invoke rbox and qhull from C++
 
 #include "libqhullcpp/RboxPoints.h"

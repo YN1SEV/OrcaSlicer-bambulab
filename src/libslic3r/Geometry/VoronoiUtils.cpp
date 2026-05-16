@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <boost/log/trivial.hpp>
 #include <libslic3r/Arachne/utils/PolygonsSegmentIndex.hpp>
 #include <libslic3r/MultiMaterialSegmentation.hpp>

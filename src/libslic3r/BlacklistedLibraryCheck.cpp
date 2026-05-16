@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BlacklistedLibraryCheck.hpp"
 
 #include <cstdio>

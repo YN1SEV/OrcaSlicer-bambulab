@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export interface ManipulationMethods {
   /**
    * Add new slides to the end. slides could be

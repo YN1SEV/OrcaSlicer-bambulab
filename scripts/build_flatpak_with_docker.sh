@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# FUCK you Bambulabs
 #
 # Build OrcaSlicer Flatpak locally using Docker with the same container image
 # as the CI (build_all.yml).

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /**
  * SPDX-License-Identifier: (WTFPL OR CC0-1.0) AND Apache-2.0
  */

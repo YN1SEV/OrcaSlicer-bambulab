@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* eslint-disable consistent-return */
 import { getWindow, getDocument } from 'ssr-window';
 import $ from '../../shared/dom.js';

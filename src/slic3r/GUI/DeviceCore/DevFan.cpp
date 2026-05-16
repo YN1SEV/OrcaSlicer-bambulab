@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <nlohmann/json.hpp>
 #include "DevFan.h"
 #include <wx/app.h>

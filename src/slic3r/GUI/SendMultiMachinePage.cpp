@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SendMultiMachinePage.hpp"
 #include "TaskManager.hpp"
 #include "I18N.hpp"

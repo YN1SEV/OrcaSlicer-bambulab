@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 var JSON;
 if (!JSON) {
     JSON = {};

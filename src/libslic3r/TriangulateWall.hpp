@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef TRIANGULATEWALL_HPP
 #define TRIANGULATEWALL_HPP
 

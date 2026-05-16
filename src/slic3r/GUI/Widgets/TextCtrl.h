@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifdef __WXMSW__
 class TextCtrl : public wxTextCtrl
 {

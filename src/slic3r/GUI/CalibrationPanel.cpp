@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <wx/dcgraph.h>
 #include "GUI.hpp"
 #include "GUI_App.hpp"

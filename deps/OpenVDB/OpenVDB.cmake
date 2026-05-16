@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 if(BUILD_SHARED_LIBS)
     set(_build_shared ON)
     set(_build_static OFF)

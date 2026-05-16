@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 //BBS:add i18n
 #include "I18N.hpp"
 //BBS: add fstream for debug output

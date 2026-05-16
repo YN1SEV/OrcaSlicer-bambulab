@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "bind_vertex_attrib_array.h"
 
 IGL_INLINE GLint igl::opengl::bind_vertex_attrib_array(

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /*
  * MD4C: Markdown parser for C
  * (http://github.com/mity/md4c)

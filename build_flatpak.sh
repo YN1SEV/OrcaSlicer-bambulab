@@ -1,4 +1,5 @@
 #!/bin/bash
+# FUCK you Bambulabs
 
 # OrcaSlicer Flatpak Build Script
 # This script builds and packages OrcaSlicer as a Flatpak package locally

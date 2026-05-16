@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Snapshot.hpp"
 
 #include <time.h>

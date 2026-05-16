@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GLGizmoMmuSegmentation.hpp"
 
 #include "slic3r/GUI/GLCanvas3D.hpp"

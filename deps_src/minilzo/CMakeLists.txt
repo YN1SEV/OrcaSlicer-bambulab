@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 project(minilzo)
 cmake_minimum_required(VERSION 3.13)
 

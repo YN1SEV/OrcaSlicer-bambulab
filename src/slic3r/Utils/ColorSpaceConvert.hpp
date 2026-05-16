@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef slic3r_Utils_ColorSpaceConvert_hpp_
 #define slic3r_Utils_ColorSpaceConvert_hpp_
 #include <string>

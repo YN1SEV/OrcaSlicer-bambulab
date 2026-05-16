@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "DevInfo.h"
 #include "slic3r/GUI/DeviceManager.hpp"
 

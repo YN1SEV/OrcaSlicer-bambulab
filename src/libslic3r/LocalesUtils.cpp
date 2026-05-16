@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "LocalesUtils.hpp"
 
 #ifdef _WIN32

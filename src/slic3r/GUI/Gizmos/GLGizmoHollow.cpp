@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GLGizmoHollow.hpp"
 #include "slic3r/GUI/GLCanvas3D.hpp"
 #include "slic3r/GUI/Camera.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "UserNotification.hpp"
 
 namespace Slic3r {

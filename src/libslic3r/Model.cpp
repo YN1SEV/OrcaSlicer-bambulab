@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Model.hpp"
 #include "libslic3r.h"
 #include "BuildVolume.hpp"

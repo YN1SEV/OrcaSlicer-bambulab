@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BridgeCoreMethodManifest.hpp"
 
 namespace PJarczak::LinuxPluginBridgeCore {

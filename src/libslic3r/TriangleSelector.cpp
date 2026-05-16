@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "TriangleSelector.hpp"
 #include "Model.hpp"
 

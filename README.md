@@ -1,4 +1,6 @@
-# FUCK BAMBOOLABS
+# FUCK BAMBULABS
+This fork is dedicated to be the biggest fuckyou possible. 
+This is why I have added comments to all codefiles with Fuck you Bambulabs, because it is my opinion that they can do just that.
 
 <div align="center">
 

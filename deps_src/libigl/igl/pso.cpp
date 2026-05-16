@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "pso.h"
 #include <cassert>
 #include <Eigen/StdVector>

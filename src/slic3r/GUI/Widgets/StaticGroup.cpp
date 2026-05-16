@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "StaticGroup.hpp"
 
 StaticGroup::StaticGroup(wxWindow *parent, wxWindowID id, const wxString &label)

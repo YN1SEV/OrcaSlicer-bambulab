@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SERIALMESSAGE_TYPE_H
 #define SERIALMESSAGE_TYPE_H
 

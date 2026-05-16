@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifdef __linux__
 #ifndef slic3r_DesktopIntegrationDialog_hpp_
 #define slic3r_DesktopIntegrationDialog_hpp_

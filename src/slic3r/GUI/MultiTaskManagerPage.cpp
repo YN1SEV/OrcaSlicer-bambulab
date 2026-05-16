@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "MultiTaskManagerPage.hpp"
 #include "I18N.hpp"
 

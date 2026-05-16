@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "pinv.h"
 #include <limits>
 #include <cmath>

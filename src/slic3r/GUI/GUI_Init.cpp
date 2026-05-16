@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GUI_Init.hpp"
 
 #include "libslic3r/AppConfig.hpp"

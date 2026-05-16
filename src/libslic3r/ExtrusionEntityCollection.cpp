@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ExtrusionEntityCollection.hpp"
 #include "ShortestPath.hpp"
 #include <algorithm>

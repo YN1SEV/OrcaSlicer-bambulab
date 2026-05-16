@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLASUPPORTTREEALGORITHM_H
 #define SLASUPPORTTREEALGORITHM_H
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "cdt.h"
 #include "../bounding_box.h"
 #include "../triangle/triangulate.h"

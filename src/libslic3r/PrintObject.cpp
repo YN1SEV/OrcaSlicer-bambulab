@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Exception.hpp"
 #include "Print.hpp"
 #include "BoundingBox.hpp"

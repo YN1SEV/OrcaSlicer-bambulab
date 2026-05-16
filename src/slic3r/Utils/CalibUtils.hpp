@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 #include "libslic3r/calib.hpp"
 #include "../GUI/DeviceManager.hpp"

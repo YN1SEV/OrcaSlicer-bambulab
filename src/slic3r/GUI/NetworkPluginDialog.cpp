@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "NetworkPluginDialog.hpp"
 #include "I18N.hpp"
 #include "GUI_App.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* eslint no-unused-vars: "off" */
 export default function slideNext(speed = this.params.speed, runCallbacks = true, internal) {
   const swiper = this;

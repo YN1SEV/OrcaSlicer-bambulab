@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <cmath>
 #include <assert.h>
 #include "slic3r/Utils/ColorSpaceConvert.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SLAImportJob.hpp"
 
 #include "libslic3r/Format/SL1.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLA_JOBCONTROLLER_HPP
 #define SLA_JOBCONTROLLER_HPP
 

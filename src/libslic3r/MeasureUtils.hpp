@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef Slic3r_MeasureUtils_hpp_
 #define Slic3r_MeasureUtils_hpp_
 

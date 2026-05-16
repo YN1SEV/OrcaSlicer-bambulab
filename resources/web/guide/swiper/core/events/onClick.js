@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function onClick(e) {
   const swiper = this;
   if (!swiper.enabled) return;

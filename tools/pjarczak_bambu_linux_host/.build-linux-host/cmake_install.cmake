@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # Install script for directory: /media/berlin/windows/Programy/OrcaSlicer-bambulab/tools/pjarczak_bambu_linux_host
 
 # Set the install prefix

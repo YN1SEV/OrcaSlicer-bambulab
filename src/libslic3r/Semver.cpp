@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "libslic3r.h"
 
 namespace Slic3r {

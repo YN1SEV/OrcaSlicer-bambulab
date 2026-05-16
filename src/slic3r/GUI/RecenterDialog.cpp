@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "RecenterDialog.hpp"
 #include "GUI_App.hpp"
 #include <slic3r/GUI/I18N.hpp>

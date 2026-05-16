@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Serial.hpp"
 
 #include "libslic3r/Exception.hpp"

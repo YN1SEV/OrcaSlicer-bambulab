@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <libslic3r/SLA/Pad.hpp>
 #include <libslic3r/SLA/SpatIndex.hpp>
 #include <libslic3r/SLA/BoostAdapter.hpp>

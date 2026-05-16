@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 var m_ProfileItem;
 
 var FilamentPriority=new Array( "pla","abs","pet","tpu","pc");

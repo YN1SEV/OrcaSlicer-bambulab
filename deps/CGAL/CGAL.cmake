@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 if (IN_GIT_REPO)
     set(CGAL_DIRECTORY_FLAG --directory ${BINARY_DIR_REL}/dep_CGAL-prefix/src/dep_CGAL)
 endif ()

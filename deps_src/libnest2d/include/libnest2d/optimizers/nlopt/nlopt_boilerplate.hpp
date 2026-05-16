@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef NLOPT_BOILERPLATE_HPP
 #define NLOPT_BOILERPLATE_HPP
 

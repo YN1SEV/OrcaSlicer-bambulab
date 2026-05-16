@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLA_ROTFINDER_HPP
 #define SLA_ROTFINDER_HPP
 

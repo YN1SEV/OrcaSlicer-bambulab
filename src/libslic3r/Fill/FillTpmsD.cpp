@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <cmath>
 #include <algorithm>
 #include <vector>

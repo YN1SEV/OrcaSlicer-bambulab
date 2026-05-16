@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifdef WIN32
     // Why?
     #define _WIN32_WINNT 0x0502

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "BBLPrinterAgent.hpp"
 #include "BBLNetworkPlugin.hpp"
 #include "NetworkAgentFactory.hpp"

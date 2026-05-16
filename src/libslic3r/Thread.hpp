@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef GUI_THREAD_HPP
 #define GUI_THREAD_HPP
 

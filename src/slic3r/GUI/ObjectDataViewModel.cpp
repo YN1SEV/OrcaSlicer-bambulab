@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ObjectDataViewModel.hpp"
 #include "slic3r/GUI/wxExtensions.hpp"
 #include "wxExtensions.hpp"

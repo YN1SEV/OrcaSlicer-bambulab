@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 
 option(SLIC3R_ENC_CHECK "Verify encoding of source files" 1)
 

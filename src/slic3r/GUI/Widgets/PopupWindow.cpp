@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PopupWindow.hpp"
 
 static wxWindow *GetTopParent(wxWindow *pWindow)

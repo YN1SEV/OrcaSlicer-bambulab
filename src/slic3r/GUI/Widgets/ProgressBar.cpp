@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ProgressBar.hpp"
 #include "../I18N.hpp"
 #include <wx/dcclient.h>

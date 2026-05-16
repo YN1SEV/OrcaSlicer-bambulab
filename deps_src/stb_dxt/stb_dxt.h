@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // stb_dxt.h - Real-Time DXT1/DXT5 compressor 
 // Based on original by fabian "ryg" giesen v1.04
 // Custom version, modified by Yann Collet

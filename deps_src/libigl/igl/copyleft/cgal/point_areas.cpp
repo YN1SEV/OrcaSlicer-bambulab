@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "point_areas.h"
 #include "delaunay_triangulation.h"
 

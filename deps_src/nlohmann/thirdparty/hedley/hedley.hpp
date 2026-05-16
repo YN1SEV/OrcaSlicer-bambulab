@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 
 /* Hedley - https://nemequ.github.io/hedley

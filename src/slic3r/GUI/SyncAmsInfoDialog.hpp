@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef _SyncAmsInfo_DIALOG_H_
 #define _SyncAmsInfo_DIALOG_H_
 

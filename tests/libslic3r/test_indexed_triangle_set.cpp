@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <iostream>
 #include <fstream>
 #include <random>

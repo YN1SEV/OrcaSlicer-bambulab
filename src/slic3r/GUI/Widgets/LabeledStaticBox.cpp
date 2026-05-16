@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "LabeledStaticBox.hpp"
 #include "libslic3r/Utils.hpp"
 #include "../GUI.hpp"

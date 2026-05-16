@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "PolygonTrimmer.hpp"
 #include "EdgeGrid.hpp"
 #include "Geometry.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "UpgradeNetworkJob.hpp"
 
 #include "slic3r/GUI/GUI.hpp"

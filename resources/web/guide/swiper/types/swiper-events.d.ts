@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { SwiperOptions } from './swiper-options';
 import Swiper from './swiper-class';
 

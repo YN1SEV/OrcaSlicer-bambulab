@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "NetworkTestDialog.hpp"
 #include "I18N.hpp"
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "min.h"
 #include "for_each.h"
 #include "find_zero.h"

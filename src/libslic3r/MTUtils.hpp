@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef MTUTILS_HPP
 #define MTUTILS_HPP
 

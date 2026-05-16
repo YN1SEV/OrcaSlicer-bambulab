@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { h } from 'vue';
 import Swiper from 'swiper';
 

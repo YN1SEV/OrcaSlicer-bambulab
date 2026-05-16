@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { setCSSProperty } from '../../shared/utils.js';
 export default function updateSlides() {
   const swiper = this;

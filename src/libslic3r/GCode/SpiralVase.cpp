@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SpiralVase.hpp"
 #include "GCode.hpp"
 #include <sstream>

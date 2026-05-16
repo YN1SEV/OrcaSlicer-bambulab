@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "NetworkAgentFactory.hpp"
 #include "IPrinterAgent.hpp"
 #include "ICloudServiceAgent.hpp"

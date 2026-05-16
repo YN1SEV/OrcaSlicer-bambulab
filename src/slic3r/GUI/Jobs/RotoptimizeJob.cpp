@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "RotoptimizeJob.hpp"
 
 #include "libslic3r/MTUtils.hpp"

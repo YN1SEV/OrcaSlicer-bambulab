@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 add_executable(meshboolean MeshBoolean.cpp)
 
 target_link_libraries(meshboolean libslic3r)

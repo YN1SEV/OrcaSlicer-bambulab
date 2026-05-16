@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef __MOONRAKER_PRINTER_AGENT_HPP__
 #define __MOONRAKER_PRINTER_AGENT_HPP__
 

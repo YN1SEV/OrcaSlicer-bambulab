@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 macro(FetchContent_MakeAvailable NAME)
   FetchContent_GetProperties(${NAME})
   if(NOT ${NAME}_POPULATED)

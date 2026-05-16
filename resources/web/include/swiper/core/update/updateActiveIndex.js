@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function updateActiveIndex(newActiveIndex) {
   const swiper = this;
   const translate = swiper.rtlTranslate ? swiper.translate : -swiper.translate;

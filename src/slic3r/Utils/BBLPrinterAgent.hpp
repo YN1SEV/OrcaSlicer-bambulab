@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef __BBL_PRINTER_AGENT_HPP__
 #define __BBL_PRINTER_AGENT_HPP__
 

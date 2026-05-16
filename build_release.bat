@@ -1,3 +1,4 @@
+:: FUCK you Bambulabs
 set WP=%CD%
 
 set debug=OFF

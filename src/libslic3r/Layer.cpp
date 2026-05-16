@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Layer.hpp"
 #include "ClipperUtils.hpp"
 #include "Print.hpp"

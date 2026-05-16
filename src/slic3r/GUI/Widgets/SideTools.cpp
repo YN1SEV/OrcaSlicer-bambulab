@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SideTools.hpp"
 #include "bambu_networking.hpp"
 #include <wx/dcmemory.h>

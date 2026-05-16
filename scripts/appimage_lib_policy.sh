@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# FUCK you Bambulabs
 
 # Libraries that are safer to resolve from the host than bundle into the AppImage.
 # Keep this list focused on the glibc/runtime loader and host-specific graphics/audio stacks.

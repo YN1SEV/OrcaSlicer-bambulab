@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 include(CheckCCompilerFlag)
 include(CheckCSourceCompiles)
 include(CheckIncludeFile)

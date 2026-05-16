@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { SvelteComponentTyped } from 'svelte';
 import { SwiperOptions, Swiper as SwiperClass } from '../types/';
 

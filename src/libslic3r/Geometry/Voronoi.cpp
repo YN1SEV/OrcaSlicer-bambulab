@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Voronoi.hpp"
 
 #include <boost/log/trivial.hpp>

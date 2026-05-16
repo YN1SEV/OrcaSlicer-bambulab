@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function updateSlidesOffset() {
   const swiper = this;
   const slides = swiper.slides;

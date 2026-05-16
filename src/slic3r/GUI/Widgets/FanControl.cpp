@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "FanControl.hpp"
 #include "Label.hpp"
 #include "../BitmapCache.hpp"

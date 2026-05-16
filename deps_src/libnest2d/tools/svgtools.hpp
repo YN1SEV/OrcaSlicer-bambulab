@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SVGTOOLS_HPP
 #define SVGTOOLS_HPP
 

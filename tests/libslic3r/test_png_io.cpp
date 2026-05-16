@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #define NOMINMAX
 #include <catch2/catch_all.hpp>
 

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export default function setGrabCursor(moving) {
   const swiper = this;
   if (swiper.support.touch || !swiper.params.simulateTouch || swiper.params.watchOverflow && swiper.isLocked || swiper.params.cssMode) return;

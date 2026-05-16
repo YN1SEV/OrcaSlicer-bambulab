@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef FIRSTFIT_HPP
 #define FIRSTFIT_HPP
 

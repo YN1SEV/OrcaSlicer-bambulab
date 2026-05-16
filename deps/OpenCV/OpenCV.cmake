@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 if (MSVC)
     set(_use_IPP "-DWITH_IPP=ON")
 else ()

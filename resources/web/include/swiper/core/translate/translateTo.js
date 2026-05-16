@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { animateCSSModeScroll } from '../../shared/utils.js';
 export default function translateTo(translate = 0, speed = this.params.speed, runCallbacks = true, translateBounds = true, internal) {
   const swiper = this;

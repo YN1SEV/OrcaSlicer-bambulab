@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SeamPlacer.hpp"
 
 #include "Polygon.hpp"

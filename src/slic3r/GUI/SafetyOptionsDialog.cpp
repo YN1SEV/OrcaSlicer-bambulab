@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "SafetyOptionsDialog.hpp"
 #include "I18N.hpp"
 #include "GUI_App.hpp"

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "StaticBox.hpp"
 #include "../GUI.hpp"
 #include <wx/dcclient.h>

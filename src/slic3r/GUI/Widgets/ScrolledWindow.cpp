@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // for scroll
 #include <wx/wxprec.h>
 #ifndef WX_PRECOMP

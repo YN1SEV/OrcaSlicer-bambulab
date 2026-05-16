@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Exception.hpp"
 #include "TriangleMesh.hpp"
 #include "TriangleMeshSlicer.hpp"

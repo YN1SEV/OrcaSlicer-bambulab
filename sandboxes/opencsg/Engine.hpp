@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLIC3R_OCSG_EXMP_ENGINE_HPP
 #define SLIC3R_OCSG_EXMP_ENGINE_HPP
 

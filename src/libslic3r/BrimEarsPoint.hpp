@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef BRIMEARSPOINT_HPP
 #define BRIMEARSPOINT_HPP
 

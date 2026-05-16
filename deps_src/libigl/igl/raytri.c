@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* Ray-Triangle Intersection Test Routines          */
 /* Different optimizations of my and Ben Trumbore's */
 /* code from journals of graphics tools (JGT)       */

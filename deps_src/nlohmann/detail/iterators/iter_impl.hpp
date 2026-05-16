@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 
 #include <iterator> // iterator, random_access_iterator_tag, bidirectional_iterator_tag, advance, next

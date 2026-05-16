@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 /* testmini.c -- very simple test program for the miniLZO library
 
    This file is part of the LZO real-time data compression library.

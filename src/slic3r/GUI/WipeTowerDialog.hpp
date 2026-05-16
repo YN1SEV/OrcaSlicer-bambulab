@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef _WIPE_TOWER_DIALOG_H_
 #define _WIPE_TOWER_DIALOG_H_
 

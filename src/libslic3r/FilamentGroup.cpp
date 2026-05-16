@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "FilamentGroup.hpp"
 #include "GCode/ToolOrderUtils.hpp"
 #include "FlushVolPredictor.hpp"

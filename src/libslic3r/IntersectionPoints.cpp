@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "IntersectionPoints.hpp"
 #include <libslic3r/AABBTreeLines.hpp>
 

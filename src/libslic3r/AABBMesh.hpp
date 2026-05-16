@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef PRUSASLICER_AABBMESH_H
 #define PRUSASLICER_AABBMESH_H
 

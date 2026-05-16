@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_COPYLEFT_OFFSET_SURFACE_H
 #define IGL_COPYLEFT_OFFSET_SURFACE_H
 #include "../igl_inline.h"

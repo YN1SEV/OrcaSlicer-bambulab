@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ObjectID.hpp"
 
 namespace Slic3r {

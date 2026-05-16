@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "octree.h"
 #include <vector>
 #include <queue>

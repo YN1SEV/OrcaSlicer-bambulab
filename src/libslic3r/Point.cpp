@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Point.hpp"
 #include "Line.hpp"
 #include "MultiPoint.hpp"

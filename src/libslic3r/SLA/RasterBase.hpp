@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLA_RASTERBASE_HPP
 #define SLA_RASTERBASE_HPP
 

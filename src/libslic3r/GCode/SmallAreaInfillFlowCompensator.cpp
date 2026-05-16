@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Modify the flow of extrusion lines inversely proportional to the length of
 // the extrusion line. When infill lines get shorter the flow rate will auto-
 // matically be reduced to mitigate the effect of small infill areas being

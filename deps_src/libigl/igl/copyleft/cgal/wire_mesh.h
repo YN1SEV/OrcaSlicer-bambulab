@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef IGL_COPYLEFT_CGAL_WIRE_MESH_H
 #define IGL_COPYLEFT_CGAL_WIRE_MESH_H
 #include "../../igl_inline.h"

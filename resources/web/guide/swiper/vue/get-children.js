@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 function getChildren(originalSlots = {}, slidesRef, oldSlidesRef) {
   const slides = [];
   const slots = {

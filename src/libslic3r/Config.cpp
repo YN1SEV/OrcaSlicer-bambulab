@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Config.hpp"
 #include "format.hpp"
 #include "Utils.hpp"

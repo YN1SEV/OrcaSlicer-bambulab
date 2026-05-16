@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getDocument } from 'ssr-window';
 import $ from '../../shared/dom.js';
 import { nextTick } from '../../shared/utils.js';

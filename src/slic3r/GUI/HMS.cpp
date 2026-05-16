@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "HMS.hpp"
 
 #include "GUI.hpp"

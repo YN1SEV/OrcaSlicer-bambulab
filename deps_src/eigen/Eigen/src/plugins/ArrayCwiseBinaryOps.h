@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 
 /** \returns an expression of the coefficient wise product of \c *this and \a other
   *

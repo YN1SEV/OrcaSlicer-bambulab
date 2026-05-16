@@ -1,3 +1,4 @@
+:: FUCK you Bambulabs
 @REM OrcaSlicer build script for Windows
 @echo off
 set WP=%CD%

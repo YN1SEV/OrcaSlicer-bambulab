@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Orient.hpp"
 #include "Geometry.hpp"
 #include <numeric>

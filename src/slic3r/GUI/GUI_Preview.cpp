@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 //#include "stdlib.h"
 #include "libslic3r/libslic3r.h"
 #include "libslic3r/Layer.hpp"

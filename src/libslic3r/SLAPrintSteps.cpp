@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include <unordered_set>
 
 #include <libslic3r/Exception.hpp>

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import * as React from 'react';
 
 import { SwiperOptions, Swiper as SwiperClass } from '../types/';

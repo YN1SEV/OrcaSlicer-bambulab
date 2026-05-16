@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "TryCatchSignal.hpp"
 
 #ifdef _MSC_VER

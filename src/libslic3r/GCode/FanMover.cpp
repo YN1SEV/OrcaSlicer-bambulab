@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "FanMover.hpp"
 
 #include "GCodeReader.hpp"

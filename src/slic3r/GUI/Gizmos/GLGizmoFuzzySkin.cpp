@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "GLGizmoFuzzySkin.hpp"
 
 #include "libslic3r/Model.hpp"

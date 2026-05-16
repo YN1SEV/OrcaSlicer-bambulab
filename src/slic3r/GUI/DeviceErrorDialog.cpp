@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "DeviceErrorDialog.hpp"
 #include "HMS.hpp"
 

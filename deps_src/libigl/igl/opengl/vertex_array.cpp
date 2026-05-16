@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "vertex_array.h"
 #include <igl/opengl/report_gl_error.h>
 

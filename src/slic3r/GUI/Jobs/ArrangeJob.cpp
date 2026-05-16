@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ArrangeJob.hpp"
 
 #include "libslic3r/BuildVolume.hpp"

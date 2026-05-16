@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLA_BOOSTADAPTER_HPP
 #define SLA_BOOSTADAPTER_HPP
 

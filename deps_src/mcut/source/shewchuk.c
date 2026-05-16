@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #if 1
 /* WARNING: these are NOT the original Shewchuk's predicates,
  * but rather a modified version used in Cinolib (https://github.com/mlivesu/cinolib)

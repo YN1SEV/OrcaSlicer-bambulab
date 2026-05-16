@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef __BBL_NETWORK_PLUGIN_HPP__
 #define __BBL_NETWORK_PLUGIN_HPP__
 

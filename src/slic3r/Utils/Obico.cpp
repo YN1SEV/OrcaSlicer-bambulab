@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "Obico.hpp"
 
 #include <algorithm>

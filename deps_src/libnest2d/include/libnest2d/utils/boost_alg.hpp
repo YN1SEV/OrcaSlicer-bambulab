@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef BOOST_ALG_HPP
 #define BOOST_ALG_HPP
 

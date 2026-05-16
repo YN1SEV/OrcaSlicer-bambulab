@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 export declare function isObject(o: any): boolean;
 export declare function isShowEl(val: any, obj: any, el: any): boolean;
 export declare function extend(target: any, src: any): void;

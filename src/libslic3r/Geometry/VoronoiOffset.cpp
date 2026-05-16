@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Polygon offsetting using Voronoi diagram prodiced by boost::polygon.
 
 #include <cmath>

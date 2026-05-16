@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "HintNotification.hpp"
 #include "ImGuiWrapper.hpp"
 #include "format.hpp"

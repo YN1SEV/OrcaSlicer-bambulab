@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 #include <nlohmann/json.hpp>
 #include "slic3r/Utils/json_diff.hpp"

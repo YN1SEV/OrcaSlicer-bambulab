@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #import <Cocoa/Cocoa.h>
 
 @interface RemovableDriveManagerMM : NSObject

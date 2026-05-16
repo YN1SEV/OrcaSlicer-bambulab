@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ColorSpaceConvert.hpp"
 
 #include <algorithm>

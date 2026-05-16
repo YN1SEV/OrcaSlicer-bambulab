@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef MINIMUMSPANNINGTREE_H
 #define MINIMUMSPANNINGTREE_H
 

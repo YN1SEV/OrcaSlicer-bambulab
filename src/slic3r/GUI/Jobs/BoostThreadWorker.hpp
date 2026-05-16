@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef BOOSTTHREADWORKER_HPP
 #define BOOSTTHREADWORKER_HPP
 

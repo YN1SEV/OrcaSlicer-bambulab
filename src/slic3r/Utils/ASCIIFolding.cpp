@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ASCIIFolding.hpp"
 
 #include <stdio.h>

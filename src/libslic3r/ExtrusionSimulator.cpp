@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // Optimize the extrusion simulator to the bones.
 //#pragma GCC optimize ("O3")
 //#undef SLIC3R_DEBUG

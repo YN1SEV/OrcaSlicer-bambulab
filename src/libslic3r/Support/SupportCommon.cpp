@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "../ClipperUtils.hpp"
 // #include "../ClipperZUtils.hpp"
 #include "../ExtrusionEntityCollection.hpp"

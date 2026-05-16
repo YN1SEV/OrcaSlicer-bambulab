@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 // KD tree built upon external data set, referencing the external data by integer indices.
 
 #ifndef slic3r_KDTreeIndirect_hpp_

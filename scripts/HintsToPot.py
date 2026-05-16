@@ -1,3 +1,4 @@
+# FUCK you Bambulabs
 # Helps converting hints.ini into POT
 
 import sys

@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import Swiper from '../swiper-class';
 
 export interface AutoplayMethods {

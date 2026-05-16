@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { getWindow, getDocument } from 'ssr-window';
 import $ from '../../shared/dom.js';
 export default function HashNavigation({

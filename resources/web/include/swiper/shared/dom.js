@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 import { $, addClass, removeClass, hasClass, toggleClass, attr, removeAttr, transform, transition, on, off, trigger, transitionEnd, outerWidth, outerHeight, styles, offset, css, each, html, text, is, index, eq, append, prepend, next, nextAll, prev, prevAll, parent, parents, closest, find, children, filter, remove } from 'dom7';
 const Methods = {
   addClass,

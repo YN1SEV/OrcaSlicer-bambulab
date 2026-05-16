@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef SLA_CLUSTERING_HPP
 #define SLA_CLUSTERING_HPP
 

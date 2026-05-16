@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "mesh_boolean_type_to_funcs.h"
 #include "BinaryWindingNumberOperations.h"
 

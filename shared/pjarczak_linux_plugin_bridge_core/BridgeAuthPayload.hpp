@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #pragma once
 
 #include "../BambuBridge/Auth/BridgeAuthPayload.hpp"

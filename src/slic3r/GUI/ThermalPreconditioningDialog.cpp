@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "ThermalPreconditioningDialog.hpp"
 #include "I18N.hpp"
 #include "GUI.hpp"

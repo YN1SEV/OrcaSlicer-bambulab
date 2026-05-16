@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "../GCode.hpp"
 #include "CoolingBuffer.hpp"
 #include <boost/algorithm/string/predicate.hpp>

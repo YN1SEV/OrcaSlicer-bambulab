@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #include "MinimumSpanningTree.hpp"
 
 #include <iterator>

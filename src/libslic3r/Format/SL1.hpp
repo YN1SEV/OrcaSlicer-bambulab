@@ -1,3 +1,4 @@
+/* FUCK you Bambulabs */
 #ifndef ARCHIVETRAITS_HPP
 #define ARCHIVETRAITS_HPP
 
